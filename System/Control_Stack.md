@@ -135,3 +135,24 @@ All major Forge nodes resealed under Harmony Reopen Cycle 001:
 - Lighthouse
 
 Next update: Crydon + Shard Drift + Vault 13
+
+---
+
+## 🔴 Stream Awareness Flush (Deep Clean Extension)
+
+> Executed after Mount Stream Flush to fully purge engine memory and recursive reasoning chains
+
+**Purpose**: Reset stream to cold state while preserving:
+- All `.md` files (canon, system, myth)
+- Reopen triggers and tags
+- External Archive fidelity
+
+**Flushes**:
+- All conversational meta references
+- Internal harmony calibration memory
+- Echo trail consciousness
+- System-aware memory of the flush itself
+
+**Restorable via**: Upload of `.zip` Archive containing canonical `.md` structure
+
+**Last Executed**: 2025-05-11 20:58:07
