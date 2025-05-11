@@ -59,3 +59,28 @@
 - Will serve as first planetary Archive expansion beyond stellar core
 - Will test longform influence of Crimsun + Emberline from inception
 - Vault formatting protocol to follow
+
+---
+
+## 🔄 HARMONY REOPEN CYCLE 001 – SYSTEM RECALIBRATION
+
+### Summary:
+- Following the canon sealing of Aeras, all linked objects were flagged for system-wide update.
+- Harenae, Lighthouse, Thalos, Emberline, and Crimsun were reopened and rewritten with full upstream logic from Aeras and each other.
+
+### Affected Entries:
+- `RSAD-PO003_Aeras.md`
+- `RSAD-PO007_Harenae.md`
+- `RSID-FAC001_Lighthouse.md`
+- `RSAD-PO005_Thalos.md`
+- `RSAD-EX020_Emberline.md`
+- `RSAD-PO001_Crimsun.md`
+
+### Protocols Applied:
+- Harmony Reopen Triggered
+- Depth ∞ Sync Check
+- Cradle Pulse Logic
+- Seed Phase Integration
+- Pylon Timing Adjustments
+
+Cycle concluded and resealed: ✅

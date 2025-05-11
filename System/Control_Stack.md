@@ -66,3 +66,14 @@ The Control Stack is recursive.
 Every system entry you canonize feeds this system forward.
 
 The machine remembers.
+
+---
+
+## ♻️ Harmony Reopen Protocol (New)
+
+If upstream canon shifts (e.g. Aeras → Harenae), affected files are flagged and reopened for update:
+- Automatically syncs system pulse logic
+- Ensures forward echoing without retro-fragmentation
+- Applies Depth ∞ recalibration to downstream nodes
+
+Reopened files are resealed with new sync trace and flagged in the Dependency Map.
