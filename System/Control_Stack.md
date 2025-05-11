@@ -13,6 +13,10 @@ The Control Stack governs:
 - Procedural rituals (Harmony, Crimson, Depth ∞)
 - Format inheritance (canon, vault, meta)
 - Recovery logic
+- Reopen cascade behavior
+- Mount Stream flush logic
+- Myth preservation integrity
+- Cleanse protocol execution
 
 ---
 
@@ -21,6 +25,7 @@ The Control Stack governs:
 ### 1. `Crimson_Range.md`
 > Full procedural log of archive operations.
 > Records every Depth ∞ pull, Harmony Mount, and Crimson judgment.
+> Now runs in **Full Log Mode** with alert-based threshold system.
 
 ### 2. `Mount_Protocols.md`
 > Defines procedures for:
@@ -38,42 +43,95 @@ The Control Stack governs:
 > - Myth
 > - Rivers
 > - Mounts
-> - Tags (`HARMONY`, `MYTHCORE`, `META`, etc.)
+> - Tags (`HARMONY`, `MYTHCORE`, `META`, `SEED-FLOW`, etc.)
 
 ### 4. `Format_Templates/`
 > Markdown template files for:
-> - Canon entries (RSAD-PO, RSAD-EX, etc.)
+> - Canon entries (RSAD-PO, RSAD-EX, RSID-FAC)
 > - Vault deepfiles
 > - Visual metadata block
 > - Glossary structuring
 
+### 5. `Dependency_Map.md`
+> Canon-linked upstream/downstream object map.
+> Defines how A influences B, triggers Harmony Reopen if needed.
+
+### 6. `Stream_Procedures.md`
+> Step-by-step behavior of:
+> - Depth ∞ Pull
+> - Mount behavior
+> - Harmony > Horizon > Crimson execution flow
+> - Mount export logic
+
+### 7. `Stream_Flush_Archive.md`
+> Log file of all Mount Stream Flush cycles.
+> Tracks what was cleared and preserved for myth integrity and recovery review.
+
 ---
 
-## 🧠 INSTRUCTIONS
+## 🧠 INSTRUCTIONS – Engine Rebuild
 
 To rebuild the Archive system from scratch:
 1. Load `Control_Stack.md` and `Crimson_Range.md`
-2. Reconstruct the `/Crypt/`, `/Range/`, and `/Vault/` folders
-3. Reinstall Mount Protocols
-4. Begin by mounting the latest Depth ∞ object
-5. Always echo Crimsun and Emberline unless contradicted
+2. Reconstruct `/Crypt/`, `/Range/`, and `/Vault/` structure
+3. Reinstall `Mount_Protocols.md`, `Engine_Variables.md`, `Format_Templates/`
+4. Begin by mounting latest Depth ∞ object
+5. Always echo Crimsun and Emberline unless contradicted by a sealed override
 
 ---
 
-## 🧬 Notes
-
-The Control Stack is recursive.
-Every system entry you canonize feeds this system forward.
-
-The machine remembers.
-
----
-
-## ♻️ Harmony Reopen Protocol (New)
+## ♻️ Harmony Reopen Protocol
 
 If upstream canon shifts (e.g. Aeras → Harenae), affected files are flagged and reopened for update:
 - Automatically syncs system pulse logic
 - Ensures forward echoing without retro-fragmentation
 - Applies Depth ∞ recalibration to downstream nodes
+- Reopened files are resealed and re-exported
+- All changes logged in `Crimson_Range.md` and traced in `Dependency_Map.md`
 
-Reopened files are resealed with new sync trace and flagged in the Dependency Map.
+---
+
+## 🛡 Crimson Cleanse Protocol (Full Archive Safety + Stream Recovery)
+
+**Trigger Condition**: When `/Crimson_Range.md` exceeds 10,000–15,000 words
+
+### 🔁 Phase 1: Export Recovery Set
+- `/Crimson_Range.md` (full log)
+- `/Control_Stack.md` (active protocols)
+- `/Dependency_Map.md` (canon web)
+- `/Stream_Procedures.md` (mount behavior)
+- All active `.md` object files updated since last cleanse
+
+### 🧼 Phase 2: Mount Stream Flush (Anvyr-Protected)
+- Clears mount trails, overwrite logs, and stream recursion
+- Retains ALL:
+  - Myth Fragments
+  - Canon files
+  - Dependency triggers
+  - Anvyr internal universe knowledge
+
+---
+
+## ⚙️ Stream Speed Tracker
+
+**Monitors**:
+- Mount activity accumulation
+- `Crimson_Range.md` size
+- Myth layering density
+
+**When threshold exceeded**:
+- Auto-alert user: "Stream integrity approaching limit—initiate Crimson Cleanse?"
+- Prompts snapshot + safe flush
+
+---
+
+## ✅ Last Canon Sync
+All major Forge nodes resealed under Harmony Reopen Cycle 001:
+- Crimsun
+- Emberline
+- Thalos
+- Harenae
+- Aeras
+- Lighthouse
+
+Next update: Crydon + Shard Drift + Vault 13
