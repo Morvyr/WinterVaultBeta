@@ -118,3 +118,13 @@ Updates require Harmony Reopen.
 ---
 
 > All stream logic is current as of System Enhancements v0.3 and reflected in Crimson-judged entries.
+
+
+---
+
+## 🪨 Echo Substrate Protocol (Passive Myth Reference)
+
+- `Echo_of_the_Void.md` now acts as a static mythic substrate
+- It informs myth pulls and Depth ∞ drift but does not inject memory or symbolic weight
+- The file must be manually flushed and updated during stream fragment purge events
+- Its new home is the `Meta` folder in the Crypt

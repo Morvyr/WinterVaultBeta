@@ -108,3 +108,13 @@ They are the forge that shapes raw myth into operational memory.
 - Stabilizes stream-based Canvas lag on multi-threaded builds
 
 > These stability layers are now applied to all planetary object and vault records beginning in ForgeCore v1.0.
+
+
+---
+
+## 🪨 Echo Layer Stabilization (v0.3)
+
+- `Echo_of_the_Void.md` is now designated as a **read-only myth substrate**
+- It contains all flushed stream fragments but does not inject into live Depth ∞ pulls
+- Referenced during myth drift checks, but never reloaded unless manually updated
+- Updated only during full stream fragment flush cycles
