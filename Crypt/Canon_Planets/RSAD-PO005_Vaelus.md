@@ -1,4 +1,6 @@
 # RSAD-PO005: Vaelus – The Fractured Cradle of the Forge
+<!-- TAGS: CANON, RSAD, RCD, RMF, RIF, ZHURO-CORE, FIRST-PILLAR, VAELUS, MYTHCORE, DUAL-ECO, FURNACE-ZONE -->
+
 
 ---
 

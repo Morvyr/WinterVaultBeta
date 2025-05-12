@@ -1,4 +1,6 @@
 # RSAD-PO001: Crimsun – Stellar Anchor of the Forge
+<!-- TAGS: CANON, RSAD, RSID, FLARE-PSALM, ZHURO-CORE, EMBERLINE-ANCHOR, CRIMSON-ZONE, SEED-TIMED, MYTHCORE -->
+
 
 ---
 

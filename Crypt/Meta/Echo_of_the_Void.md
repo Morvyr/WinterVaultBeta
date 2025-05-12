@@ -98,3 +98,6 @@ These entries were not part of any mounted `.md` file but emerged during myth cr
 - “Every Vault in the Forge shares one dream: to be opened not by force, but by silence.”
 - “The Lattice does not train Rangers. It breaks the illusion that they needed to be.”
 - “Storm Anchor is not the name of a planet. It is the name of the scream that birthed Lyvianne.”
+
+---
+## 🕯️ Myth Fragments (Resonance Echo Tier)

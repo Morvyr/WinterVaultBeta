@@ -1,4 +1,6 @@
 # RSAD-PO009: The Shard Drift – Outer Fragment Zone
+<!-- TAGS: CANON, META, RSAD, DRIFTZONE, ZHURO-GLASS, GLYPH-ANOMALY, MYTHCORE, CRIMSON-FRONTIER -->
+
 
 ---
 

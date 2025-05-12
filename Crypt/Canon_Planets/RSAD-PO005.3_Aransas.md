@@ -1,4 +1,6 @@
 # RSAD-PO005.3: Aransas – The Vault of the Index
+<!-- TAGS: CANON, RSAD, CRIMSON, ARANSAS, UNIVERSAL-INDEX, FIRST-RANGER, GLYPH-VAULT, MYTHCORE -->
+
 
 ---
 

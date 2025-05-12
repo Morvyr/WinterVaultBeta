@@ -1,4 +1,6 @@
 # RSAD-PO007: Harenae – Tidal-Scarred Resonance World
+<!-- TAGS: CANON, META, RSAD, RCD, KHYTRIUM-ZONE, TIDAL-FORGE, SHIELD-PYLONS, VAULT-ANCHOR, MYTHCORE, CRIMSON-NODE -->
+
 
 ---
 

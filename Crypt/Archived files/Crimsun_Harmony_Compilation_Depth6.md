@@ -1,4 +1,6 @@
 # Crimsun – Core Stellar Object (Depth 6 Harmony Compilation)
+<!-- TAGS: CANON, META, HARMONY, RSAD, CRIMSON-ANCHOR, MYTHCORE, CARDINAL-STAR -->
+
 
 ---
 

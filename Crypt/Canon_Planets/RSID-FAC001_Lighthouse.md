@@ -1,4 +1,6 @@
 # RSID-FAC001: The Lighthouse – Orbital Command & Pulse Relay
+<!-- TAGS: CANON, RSID, RCD, VAULT-NODE, MYTHCORE, PULSEKEEPER, SPIRELINE, CRADLELINK, SEED-ECHO, CRIMSON-ZONE -->
+
 
 ---
 

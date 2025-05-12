@@ -1,4 +1,6 @@
 # RSAD-PO005.2: Caldrax – The Moon of Force Command
+<!-- TAGS: CANON, RSAD, RMF, RIF, CRIMSON, CALDRAX, FORCE-COMMAND, VAULT-ANCHOR, MYTHCORE -->
+
 
 ---
 

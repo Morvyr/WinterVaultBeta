@@ -1,4 +1,6 @@
 # Crimsun – Core Stellar Object (Depth 6 Canon Mount)
+<!-- TAGS: CANON, RSAD, CARDINAL-ANCHOR, STELLAR-MAP-NODE -->
+
 
 ---
 

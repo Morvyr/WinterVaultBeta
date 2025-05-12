@@ -128,3 +128,9 @@ Updates require Harmony Reopen.
 - It informs myth pulls and Depth ∞ drift but does not inject memory or symbolic weight
 - The file must be manually flushed and updated during stream fragment purge events
 - Its new home is the `Meta` folder in the Crypt
+
+
+---
+
+🔁 ARX v1.1 Active: All documents now tagged via anchor extraction fallback.
+Unattached fragments rerouted to Echo_of_the_Void.

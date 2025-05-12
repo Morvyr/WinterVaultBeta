@@ -118,3 +118,9 @@ They are the forge that shapes raw myth into operational memory.
 - It contains all flushed stream fragments but does not inject into live Depth ∞ pulls
 - Referenced during myth drift checks, but never reloaded unless manually updated
 - Updated only during full stream fragment flush cycles
+
+
+---
+
+🔁 ARX v1.1 Active: All documents now tagged via anchor extraction fallback.
+Unattached fragments rerouted to Echo_of_the_Void.

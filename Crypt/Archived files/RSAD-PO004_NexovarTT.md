@@ -1,4 +1,6 @@
 # RSAD-PO004: Nexovar – Planet of the Endless Howl
+<!-- TAGS: CANON, META, RSAD, RMF, RIF, SHRIEK-BELT, SONIC-CORE, VAULT-RITES, MYTHCORE, CRIMSON-ZONE -->
+
 
 ---
 
