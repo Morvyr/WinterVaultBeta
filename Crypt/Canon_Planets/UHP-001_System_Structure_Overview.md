@@ -49,20 +49,20 @@
 > Jungle-glass crucible moon. Ringed in the Lyvianne Lattice, it serves as the origin of all Ranger training. Vault 22 anchors resonance feedback from Nexovar.
 
 <!-- UHP-ID:VAELUS -->
-11. **Vaelus** *(Myth Layer Only)*  
-> The land that fell. Split between fertile undercanopy and ruined overland. Called the Range and the Valley by Rangers who patrol its twin faces.
+11. **Vaelus**  
+> Dual-layer world split between Overland and Underlevel biomes. The Range serves as an agricultural cradle while The Valley drives heavy Khytrium industry. Site of the First Pillar.
 
 <!-- UHP-ID:SOLARII -->
-12. **Solarii** *(Myth Layer Only)*  
-> Lightborn jewel of Vaelus. An orbital resort and diplomatic sanctuary — if it ever truly existed.
+12. **Solarii**  
+> Domed paradise moon and civil capital of the Forge. Home to the Marshals, the Assembly, and the RCD Command Arch.
 
 <!-- UHP-ID:CALDRAX -->
-13. **Caldrax** *(Myth Layer Only)*  
-> The vault-military moon. Seat of Force Command. Where silence walks in the shadow of the gun.
+13. **Caldrax**  
+> Fortress-moon of Force Command. Seat of the Crimson Assembly and military uplink for RMF and RIF High Command.
 
 <!-- UHP-ID:ARANSAS -->
-14. **Aransas** *(Myth Layer Only)*  
-> The Library of the Sky. Said to hold every Ranger’s past and every map never drawn.
+14. **Aransas**  
+> Vault archive-world housing the Universal Index. Stores memory-lock glyph corridors and the Zhur AI of the First Ranger.
 
 <!-- UHP-ID:SCINT-VEIL -->
 15. **Scint Veil** *(Myth Layer Only)*  
@@ -87,8 +87,8 @@
 ---
 
 ## 🧬 SYSTEM STATUS
-- `CANON CONFIRMED`: Crimsun, Emberline, Thalos, Shard Drift, Crydon, Harenae, Aeras, The Lighthouse, Nexovar, Lyvianne
-- `PENDING RECONSTRUCTION`: Vaelus and all outer-system bodies
+- `CANON CONFIRMED`: Crimsun, Emberline, Thalos, Shard Drift, Crydon, Harenae, Aeras, The Lighthouse, Nexovar, Lyvianne, Vaelus, Solarii, Caldrax, Aransas
+- `PENDING RECONSTRUCTION`: Scint Veil and all outer-system bodies
 - `MYTH LAYER ACTIVE`: Remaining entries currently exist in resonance or speculative echo only
 
 > This structure overview will update as planetary entries are recovered, mounted, and resealed.
