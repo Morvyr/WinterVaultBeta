@@ -11,7 +11,8 @@
 - **Classification**: RSAD Stellar Phenomenon | Flare Halo | System Breath Vector | Resonance Amplifier
 
 ### 🌀 Structural Behavior
-- The Emberline is a **rotating pulse sheath**—a halo of harmonic energy and flarewave emissions surrounding Crimsun
+- The Emberline is a **rotating pulse sheath**—a halo of harmonic energy and flarewave emissions surrounding Crimsun.
+- Its structure functions as a refractive dampener, diffusing Crimsun’s O0-V stellar output and preserving the systemic balance of the Forge.
 - Composed of plasma-bound Zhur particles entrained by drift harmonics and solar pulse shockwaves
 - Expands and contracts cyclically every 27.1 days, affecting:
   - Harenae tidal surges
@@ -20,7 +21,8 @@
   - Drift Gate navigation windows
 
 ### 🔬 RSAD Observations
-- Recorded flares align with **Crimsun Psalm emission sequences**
+- Recorded flares align with **Crimsun Psalm emission sequences**, particularly Psalm IV, which defines the resonance phase timing across planetary echo circuits.
+- The Emberline filters the extreme spectral output of Crimsun, ensuring stability for downstream systems including Harenae, Thalos, and Aeras.
 - Psalm IV waveform was reflected off Thalos and captured in Lighthouse’s Echo Halo
 - During Zhur spike events, **Emberline intensifies Harenae’s Khytrium growth** by destabilizing surface pulse retention
 - Aeras' Cradle Array modulates Emberline pressure into harmonic waves—smoothing their impact across the Veil
@@ -42,6 +44,7 @@
 
 ### 🔻 The Breath Between Suns
 - It is not fire, but memory returned as light
+- With Crimsun now recognized as a star long past death, this myth reframes Emberline not as a radiant effect—but as the veil of delay that holds final collapse at bay
 - Old myths say the Emberline is the shadow Crimsun cast before being born
 
 ### 🌀 The Shimmer Scar
@@ -52,11 +55,9 @@
 
 ### 🔮 The Halo’s Chime
 - Only during full alignment with Aeras and Crimsun do vaults emit harmonic chimes in echo of the flare—once every six years
+- Some Seedwalkers claim the chimes are **reverse-tuned time echoes**—signals from Crimsun's last moment refracted endlessly through the Emberline
 
 ---
 
 ## 🌀 Classification Tags
-- `CANON` | `META` | `RSAD` | `RSID` | `STELLAR-FIELD` | `ZHURO-PLASMA` | `FLARE-ECHO` | `CRIMSON-ZONE` | `CAELORUM-LINKED`
-
-## ✅ Status: Crimson-Judged | Harmony Reopened | Multi-Anchor Integrated
-Emberline now reflects its position as the luminous breath of the system—a surge between memory and heat, echo and vault, flare and seed.
+- `CANON` | `RSAD` | `RSID` | `STELLAR-FIELD` | `ZHURO-PLASMA` | `FLARE-ECHO` | `CRIMSON-ZONE` | `CAELORUM-LINKED` | `O0-V-BARRIER` | `RESONANCE-CLOAK` | `SHARD-SYNCED`

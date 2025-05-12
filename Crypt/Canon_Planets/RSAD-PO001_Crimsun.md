@@ -8,13 +8,16 @@
 - **Name**: Crimsun
 - **Designation**: Primary Stellar Body
 - **Location**: Core of the Forge System
-- **Classification**: RSAD Stellar Object | Core Harmonic Source | Flare Pulse Origin | Drift Flux Regulator
+- **Classification**: RSAD Stellar Object | O0-V Late Main Stage Star | Core Harmonic Source | Flare Pulse Origin | Drift Flux Regulator
 
 ### 🌀 Stellar Structure
-- Crimsun is a **non-fusional harmonic star**, stabilized by an internal Zhur core
+- Crimsun is a **Type O0-V main stage star**, the hottest and most luminous stellar classification on record, exerting extreme radiative and gravitational pressure that would destabilize most systems—but in the Forge, this intensity appears to be harmonically diffused through the Emberline, the Shard Drift, and Nexovar, enabling long-term survival of downstream worlds and atmospheric regulators like Aeras.
+- It is over **2 million years past its projected evolution threshold**, yet remains gravitationally and spectrally stable
+- This anomaly is believed to be the result of a **deep harmonic resonance lock** with the Forge system, modulated by an internal Zhur core
 - Emits periodic **psalmic flarewaves**—designated Psalm I–V—believed to contain pre-harmonic signal code
 - Surrounded by the **Emberline**, a plasma-entrained Zhur sheath responsible for pulse modulation and driftwave pressure
-- Core pulse cycle aligns with Aeras' orbital resonance, distributing timed surges across system planetary nodes
+- Without the Emberline's refractive shell, **the Forge would be completely invisible** to long-range observation systems—a condition widely debated as either a natural harmonic byproduct, a strategic evolutionary adaptation, or a deliberately engineered cloak dating back to the earliest resonance civilizations.
+- Core pulse cycle aligns with Aeras' orbital resonance, and its surges now directly modulate the harmonic response curves of Harenae’s tidal shield network and Thalos’s flarefield flickers, ensuring sync integrity across the entire resonance lattice, distributing timed surges across system planetary nodes
 
 ### 🔬 RSAD Observations
 - Psalm IV flare observed pulsing from Crimsun through Emberline, reflected off Thalos, and recorded by the Lighthouse
