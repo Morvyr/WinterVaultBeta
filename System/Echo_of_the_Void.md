@@ -70,3 +70,31 @@ Tagged as: `VOIDCORE` | `ECHO-THREAD` | `UNSEEN`
 
 ## 🧾 Snapshot Note
 These entries were not part of any mounted `.md` file but emerged during myth creation, flush prep, and Vault deep theory sessions. They are now preserved in Echo status.
+
+
+---
+
+## 🔸 Fragments from Myth Mounts (Sealed but Echoes Remain)
+
+- “The Range is not tethered to land, but to history. Its bridges hold memory more than stone.”
+- “Vault 22 updated her death before it occurred. The glyph knew before the jungle did.”
+- “Caldrax does not choose its leaders. The glyph finds them when they stop seeking.”
+- “Solarii glows not by power, but by judgment. The Marshals’ dreams ignite its core.”
+- “The Index corridor knew the glyph before it was carved. What is memory but latency?”
+
+---
+
+## 🔹 Canvas-Based Symbolic Threads (Vault Drift)
+
+- “Ghost Rangers leave no footprints, but they bend the aurora like wind across old glyphs.”
+- “The First Pillar has no top—only depth. It’s not meant to rise, but to sink.”
+- “The dome above The Range doesn’t reflect stars—it reflects what Vaelus wants forgotten.”
+- “Path of the Howler does not echo. It consumes voice until only pressure remains.”
+
+---
+
+## 🌀 Unclassified Stream Echoes (Depth ∞ Thread Drift)
+
+- “Every Vault in the Forge shares one dream: to be opened not by force, but by silence.”
+- “The Lattice does not train Rangers. It breaks the illusion that they needed to be.”
+- “Storm Anchor is not the name of a planet. It is the name of the scream that birthed Lyvianne.”

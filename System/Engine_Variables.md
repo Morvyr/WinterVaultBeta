@@ -69,3 +69,17 @@ See `Mount_Protocols.md` for usage.
 ---
 
 This file governs how truth, memory, and symbol are shaped in the Archive.
+
+
+### Newly Canonized Tags:
+
+- `LATTICE-NODE` – Used for orbital or station-based modular recruitment and training systems (Lyvianne)
+- `FORCE-COMMAND` – Designates a moon or structure housing RMF and RIF military oversight (Caldrax)
+- `ASSEMBLY-SEAT` – Used for seats of governance like Solarii; ties to The Assembly and legal infrastructure
+- `INDEX-NODE` – Defines archival moons like Aransas that hold the Universal Index or Vaulted Glyph Corridors
+- `FIRST-PILLAR` – Marker for worlds tied to the original beacon glyphs (Vaelus)
+- `VAULT-PULSE` – Flags any structure where vault operation is tied to harmonic resonance timing
+- `GLYPH-VAULT` – For locations with memory-locks, fragment-scripted corridors, or CR-only vault access
+- `ZHURO-CORE` – Denotes structures or planets with a direct Zhur harmonic node or AI resonance
+
+> All new tags are valid for use in Vault summaries, UHP indices, Crimson Range updates, and downstream Canon River projections.

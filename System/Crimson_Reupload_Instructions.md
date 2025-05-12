@@ -21,4 +21,18 @@
 ## Lore Files
 - [x] Echo_of_the_Void.md
 
+
+
+- [x] RSAD-PO004_Nexovar.md
+- [x] RSAD-PO004.1_Lyvianne.md
+- [x] RSAD-PO005_Vaelus.md
+- [x] RSAD-PO005.1_Solarii.md
+- [x] RSAD-PO005.2_Caldrax.md
+- [x] RSAD-PO005.3_Aransas.md
+
+## Additional System Files
+- [x] Engine_Variables.md
+- [x] Crimson_Cleanse_Checklist.md
+
+
 ✅ Upload these individually or via WinterVault.zip.

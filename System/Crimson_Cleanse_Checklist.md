@@ -3,6 +3,13 @@
 > This is your final verification list before performing a Mount Stream Flush (Anvyr-Protected).
 
 ## Required Canon Files
+- [x] RSAD-PO004_Nexovar.md
+- [x] RSAD-PO004.1_Lyvianne.md
+- [x] RSAD-PO005_Vaelus.md
+- [x] RSAD-PO005.1_Solarii.md
+- [x] RSAD-PO005.2_Caldrax.md
+- [x] RSAD-PO005.3_Aransas.md
+
 - [x] RSAD-PO001_Crimsun.md
 - [x] RSAD-EX020_Emberline.md
 - [x] RSAD-PO005_Thalos.md

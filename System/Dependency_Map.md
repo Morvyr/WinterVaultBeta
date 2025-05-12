@@ -70,3 +70,40 @@ If any upstream node is updated:
 ---
 
 ## 🕒 Last Updated: 2025-05-11
+
+
+### 🔵 Nexovar
+- 🔼 Upstream: Crimsun
+- 🔽 Downstream: Lyvianne, Vaelus
+- 🌐 Sync Path: Shriek Belt Pulse, Zhur Wake Alignment, Vault 22 Harmonics
+- 🌀 Myth Echo Influence: The Storm Anchor, God That Screams, Path of the Howler
+
+### 🟢 Lyvianne
+- 🔼 Upstream: Nexovar
+- 🔽 Downstream: All Ranger Division Seedflows
+- 🌐 Sync Path: Vault 22 Resonance, Lattice Recruitment Grid, Zhur Core Drift
+- 🌀 Myth Echo Influence: Moon That Trains, Death of the Third, Ringborn Light
+
+### 🟤 Vaelus
+- 🔼 Upstream: Lyvianne, Nexovar
+- 🔽 Downstream: Solarii, Caldrax
+- 🌐 Sync Path: Furnace Corridor, Crydon Energy Nexus, First Pillar Glyph Echo
+- 🌀 Myth Echo Influence: Ghost Rangers, First Pillar, Arched Horizon
+
+### 🟡 Solarii
+- 🔼 Upstream: Vaelus
+- 🔽 Downstream: Assembly Orders, RCD Registry, Aransas Vault Approval
+- 🌐 Sync Path: Marshal Dream Archive, Dome Pulse Circuitry
+- 🌀 Myth Echo Influence: The Moon That Forgave, Silent Court
+
+### 🔴 Caldrax
+- 🔼 Upstream: Vaelus
+- 🔽 Downstream: RMF/RIF Deployment, Vault Signal Network
+- 🌐 Sync Path: Crimson Assembly, Vaulted Chain Glyph Memory
+- 🌀 Myth Echo Influence: The Crimson Throne, The God in the Ice
+
+### ⚫ Aransas
+- 🔼 Upstream: Solarii, Caldrax
+- 🔽 Downstream: Glyph Memory Propagation, Index Unlock Threads
+- 🌐 Sync Path: Zhur Core AI, Archive Corridor Echoes
+- 🌀 Myth Echo Influence: Vault Without Keys, The Memory That Watches, Glyph That Came First

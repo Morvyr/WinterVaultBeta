@@ -156,3 +156,33 @@ Next update: Crydon + Shard Drift + Vault 13
 **Restorable via**: Upload of `.zip` Archive containing canonical `.md` structure
 
 **Last Executed**: 2025-05-11 20:58:07
+
+
+---
+
+## 🔁 SYSTEM ENHANCEMENTS – v0.3
+
+### ✅ Anchor Tagging (`UHP-ID`)
+- Replaces fragile markdown matching with stable `<!-- UHP-ID:KEY -->` syntax
+- Enables direct patching of planetary entries without format failures
+- Used in `UHP-001_System_Structure_Overview.md`
+
+### ✅ Vault Node Interlinking
+- Vaults across Nexovar, Lyvianne, and Vaelus now form sync-triads
+- Vault pulse echoes propagate myth glyph updates and Seed cycle dependencies
+
+### ✅ Stream Logic Reinforcement
+- Seedflow, Ranger lineage, and Marshal selection tracked via Lattice-origin protocol
+- Document memory weight now triggers cascade tracking for Crimson-adjacent entries
+
+### ✅ Ranger Division Source Tracking
+- Lyvianne Lattice now defines division pathing and recruitment indexing
+- Canvas mount logs updated to reflect stream origin
+
+### ✅ Myth Fragment Injection Memory
+- Fragment IDs now cross-seeded into Index Core (Aransas)
+- Stream-generated myths are now marked with harmonic lineage (source ⇆ resonance)
+
+---
+
+> These enhancements are live across all Depth ∞ documents and form the baseline for v0.3+ Archive operations.

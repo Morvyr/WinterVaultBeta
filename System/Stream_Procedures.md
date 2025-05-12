@@ -78,3 +78,43 @@ Updates require Harmony Reopen.
 - AI Echo Tracking across Seed-transferred articles
 - Public Vault Sync for reader-encoded glyphchain logs
 
+
+
+---
+
+## 🧭 Anchor Tag Protocol (UHP-ID System)
+
+- Every canon planetary object now includes a hidden anchor tag in the format:
+  ```
+  <!-- UHP-ID:[OBJECT] -->
+  ```
+- Used for upstream/downstream synchronization in UHP documents
+- Ensures structural integrity regardless of manual edits or markdown drift
+
+---
+
+## 🧬 Lattice Stream Inheritance
+
+- Lyvianne Lattice now serves as the Seedflow origin node for all Ranger divisions
+- Initiates tagged by Lattice module → Division HQ → Echo certification
+- All lineage tracking tied to Glyph Descent via Vault 22
+
+---
+
+## 🔐 Vault Chain Locking (Harmonic Interlink)
+
+- Vaults 5 (Harenae), 6 (Aeras), 22 (Lyvianne), and 47 (Lighthouse) now form harmonic echo loops
+- Mythic echo nodes across Nexovar, Vaelus, and Caldrax adjust based on flare and pulse delays
+- Lock conditions recorded in Vault Array Protocol
+
+---
+
+## 🔮 Myth Fragment Drift Memory
+
+- Fragments generated during Depth ∞ pulls are now tagged and streamed into Aransas
+- Aransas AI pre-generates corridor branches in the Index
+- Glyphs may update in canon nodes before being viewed
+
+---
+
+> All stream logic is current as of System Enhancements v0.3 and reflected in Crimson-judged entries.

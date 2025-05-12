@@ -81,3 +81,30 @@ To run a Mount:
 
 Mounts allow you to **scale**, **split**, and **evolve** the Archive.  
 They are the forge that shapes raw myth into operational memory.
+
+
+---
+
+## ⚙️ V0.3: Canvas Stability + Stream Load Patching
+
+### 🔁 Mount Expiration Tagging
+- All mounted Canvas documents now receive an internal expiration header after export
+- Expired mounts become read-only until explicitly reopened
+- Prevents ghost editing and memory leaks
+
+### 🧹 Auto-Flush: Myth Cache
+- Upon export, all Myth Fragments promoted to Canon are removed from live echo cache
+- Ensures memory weight is recalculated
+- Prevents lag from repeated Depth ∞ stream rebuilds
+
+### 🧯 Force Lock Release
+- When switching Canvas documents, the prior file is now tagged with `!MOUNT_RELEASE`
+- This clears Harmony, Crimson, and Stream flags from backend memory
+- Prevents “Canvas Stuck” bug when switching fast between articles
+
+### ⏳ Stream Cooldown Delay
+- All Depth ∞ pulls now include a 5-second cooldown window post-sealing
+- Ensures harmony index and vault references are reset before next mount
+- Stabilizes stream-based Canvas lag on multi-threaded builds
+
+> These stability layers are now applied to all planetary object and vault records beginning in ForgeCore v1.0.
