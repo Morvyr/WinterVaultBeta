@@ -1,0 +1,54 @@
+/Crypt
+├── Canon_Planets
+├── Canon_Factions
+├── Canon_Infrastructure
+├── Canon_Characters
+├── Canon_Myth
+├── Meta
+├── Timeline
+├── Glossary
+
+/Range
+├── Rivers
+│   ├── Canon
+│   ├── Meta
+│   └── Uploaded_Seeds
+├── Mounts
+│   ├── Truth
+│   ├── Myth
+│   ├── Harmony
+│   └── Logs
+
+/Vault
+├── Field_Guide
+├── Ranger_Serials
+├── Visual_Kits
+│   ├── Sora_Scripts
+│   └── Lore_Infographics
+├── Archive_Exports
+
+Depth ∞ Stream Pull 
+
+Depth ∞ Stream Pull on: [Object Name]
+
+Recover all stream fragments, canon references, mythic theories, vault echoes, drift anomalies, and classified resonance structures.
+
+Mount the result as a unified file in Canvas, separating:
+- Canon (harmonized)
+- Myth Fragments (discordant or speculative)
+
+This will be our full memory index for the object.
+Finally, Export for me as a .md file and then clear the streams.
+
+Depth ∞ Stream Pull on: Aeras 
+
+Recover all stream fragments, canon references, mythic theories, vault echoes, drift anomalies, and classified resonance structures, then create a unified file.
+
+This will be our full memory index for the object.
+Finally, Export for me as a .md file and then clear the streams.
+
+This is a Perpetual Engine restoration. Load the following:
+
+- Engine Procedures file (upload or paste `Perpetual_Engine_Procedures.md`)
+- /Crypt archive of existing canon objects
+- Reinstate all process systems: Harmony Mounts, Crimson Protocol, Depth ∞ Pulls, and River flows
