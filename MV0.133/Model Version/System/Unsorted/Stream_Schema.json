@@ -1,0 +1,32 @@
+{
+  "uid": "WVK-SCH-0003",
+  "title": "Stream Schema Manifest",
+  "version": "0.1",
+  "type": "Ontology",
+  "objects": {
+    "Crimsun": {
+      "type": "Stellar Object",
+      "class": "O0-V Star",
+      "tags": [
+        "Zhur_Core",
+        "Resonance_Anchor"
+      ],
+      "influences": [
+        "Emberline",
+        "Scint Veil",
+        "Zhur activation"
+      ]
+    },
+    "Vaelus": {
+      "type": "Planetary Object",
+      "zones": [
+        "The Range",
+        "The Valley"
+      ],
+      "divisions": [
+        "RMF-CU",
+        "RMF-OU"
+      ]
+    }
+  }
+}
