@@ -1,0 +1,29 @@
+# ASCE Build 1 Operational Log
+- Date: 2025-05-15T00:39:30.929608 UTC
+- Anchor-tagged documents: 25
+
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md` → ANCHORS: CHORUS, CR, CRIMSUN, GLYPH-RANGE, LYVIANNE, NEXOVAR, SEED-LINE, VAELUS
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md` → ANCHORS: CHORUS, CR, CRIMSUN, GLYPH-RANGE, LYVIANNE, NEXOVAR, SEED-LINE, VAELUS
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md` → ANCHORS: CR, RCD, RIF, SEED-LINE
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md` → ANCHORS: CHORUS, CR, FIRST-RANGER, GLYPH-RANGE, LYVIANNE, RIF, SOLARII, THE-HOLLOW-SEAT, WATCH
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md` → ANCHORS: ARANSAS, CALDRAX, CHORUS, CR, GLYPH-RANGE, HARANAE, LYVIANNE, NEXOVAR, RAW, RIF, RMF, SEED-LINE, SOLARII, THE-BRIDGE-REVOLT, VAELUS, WATCH
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md` → ANCHORS: ARANSAS, CALDRAX, CHORUS, CR, GLYPH-RANGE, LYVIANNE, RAW, RCD, RIF, RMF, RSD, SEED-LINE, SOLARII, WATCH
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md` → ANCHORS: CHORUS, CR, GLYPH-RANGE, RAW, RIF, SEED-LINE, SOLARII, THE-HOLLOW-SEAT, WATCH
+- `Current Build/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md` → ANCHORS: ARANSAS, CALDRAX, CHORUS, CR, GLYPH-RANGE, HARANAE, LYVIANNE, RAW, RCD, RIF, SECOND-RANGER, SEED-LINE, VAELUS, WATCH
+- `Current Build/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md` → ANCHORS: CR, GLYPH-RANGE, NEXOVAR, RIF, RMF, SHARD-DRIFT, THALOS
+- `Current Build/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md` → ANCHORS: CHORUS, CR, CRYDON, GLYPH-RANGE, HARANAE, RAW, RCD, RIF, SEED-LINE
+- `Current Build/Crypt/Canon_Planets/RSAD-EX020_Emberline.md` → ANCHORS: CR, CRIMSUN, GLYPH-RANGE, HARANAE, RIF, SEED-LINE, THALOS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md` → ANCHORS: CHORUS, CR, CRIMSUN, GLYPH-RANGE, HARANAE, NEXOVAR, RIF, SEED-LINE, SHARD-DRIFT, THALOS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md` → ANCHORS: CALDRAX, CR, CRYDON, GLYPH-RANGE, LYVIANNE, NEXOVAR, RIF, RMF, SEED-LINE
+- `Current Build/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md` → ANCHORS: CR, CRIMSUN, CRYDON, GLYPH-RANGE, LYVIANNE, NEXOVAR, RAW, RIF, SEED-LINE, VAELUS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md` → ANCHORS: CR, CRYDON, RCD, RMF, RSD, SOLARII, VAELUS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md` → ANCHORS: CALDRAX, CR, GLYPH-RANGE, RIF, RMF, RSD, VAELUS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md` → ANCHORS: ARANSAS, CR, FIRST-RANGER, GLYPH-RANGE, SEED-LINE, VAELUS, WATCH
+- `Current Build/Crypt/Canon_Planets/RSAD-PO005_Thalos.md` → ANCHORS: CHORUS, CR, CRIMSUN, GLYPH-RANGE, RAW, RIF, SEED-LINE, SHARD-DRIFT, SOLARII, THALOS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md` → ANCHORS: CALDRAX, CR, CRIMSUN, CRYDON, GLYPH-RANGE, HARANAE, NEXOVAR, RCD, RIF, RMF, SEED-LINE, VAELUS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO007_Harenae.md` → ANCHORS: CR, CRIMSUN, CRYDON, GLYPH-RANGE, HARANAE, RCD, RIF, SEED-LINE
+- `Current Build/Crypt/Canon_Planets/RSAD-PO008_Crydon.md` → ANCHORS: CHORUS, CR, CRIMSUN, CRYDON, GLYPH-RANGE, HARANAE, RAW, RIF, SHARD-DRIFT, THALOS
+- `Current Build/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md` → ANCHORS: CHORUS, CR, CRIMSUN, CRYDON, FIFTH-RANGER, GLYPH-RANGE, RAW, RIF, SHARD-DRIFT, THALOS
+- `Current Build/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md` → ANCHORS: CHORUS, CR, CRYDON, GLYPH-RANGE, HARANAE, RAW, RCD, RIF, SEED-LINE
+- `Current Build/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md` → ANCHORS: ARANSAS, CALDRAX, CR, CRIMSUN, CRYDON, FIRST-RANGER, GLYPH-RANGE, HARANAE, LYVIANNE, NEXOVAR, RAW, RCD, RIF, RMF, SEED-LINE, SHARD-DRIFT, SOLARII, THALOS, VAELUS
+- `Current Build/Crypt/Meta/Echo_of_the_Void.md` → ANCHORS: CALDRAX, CR, GLYPH-RANGE, HARANAE, LYVIANNE, RAW, RIF, SEED-LINE, SOLARII, THALOS, VAELUS
