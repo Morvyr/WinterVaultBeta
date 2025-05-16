@@ -1,0 +1,16 @@
+ANCHOR:RMS_TRIGGER_JSON
+TAGS: ['SYSTEM', 'TRIGGER', 'CONFIG']
+LINKS: ['STREAM_STATE_MD', 'RMS_TOKEN_WATCH_PROTOCOL']
+TIER: SYSTEM
+TOOL_TYPE: CONFIG_WRAPPER
+STATUS: LIVE
+
+---
+
+# 🔍 RMS TRIGGER JSON
+
+Points to `System/rms.trigger.json`  
+Triggers queued system updates based on archive activity.
+
+ANCHOR_HISTORY:
+  - 2025-05-16T06:39Z: WRAPPER_CREATED

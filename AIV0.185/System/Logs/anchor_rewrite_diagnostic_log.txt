@@ -1,0 +1,666 @@
+Anchor Rewrite Diagnostic Log – Pass 001
+=======================================
+
+Total Anchors Scanned: 113
+Total Anchor Usages Detected: 656
+Potential Missing Anchor Entries: 654
+
+Missing Anchor Usages:
+- ACADEMIA-CAELORUM in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- AI-LINK in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- AI-LINK in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- ARANSAS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- ARANSAS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- ARANSAS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- ARANSAS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- ARANSAS in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- ARCHIVE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- ARCHIVE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- ARCHIVE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- ARCHIVE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- ARCHIVE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- ARCHIVE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- ASSEMBLY in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- ASSEMBLY in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- ASSEMBLY in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- ASSEMBLY in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- ASSEMBLY in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- ASSEMBLY in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- ASSEMBLY-SEAT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- BREATH-LAW in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- CAELORUM-LINKED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- CAELORUM-SYNC in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- CALDRAX in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- CANON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CANON in /mnt/data/AIV0.174/System/Logs/Anchor_Rewrite_Log_FULL.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- CHORUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CR in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- CR in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CRADLE-LIGHT in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- CRADLELINK in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CRADLELINK in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- CRIMSON in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- CRIMSON-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- CRIMSUN in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- CRYDON in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- DEPUTY-COMMAND in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- DEPUTY-COMMAND in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- DEPUTY-COMMAND in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- DEPUTY-COMMAND in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- DEPUTY-COMMAND in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- DOME-WORLD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- DRIFT in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- DRIFT-PROXIMAL in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- DUAL-ECO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- ECHO in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- ECHO-CROWN in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- ECHO-VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- EMBERLINE-ANCHOR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- EMBERLINE-SYNC in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- FIFTH-FOUNDER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- FIFTH-RANGER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- FIRST-DEPUTY in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- FIRST-PILLAR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- FIRST-RANGER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- FIRST-RANGER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- FIRST-RANGER in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- FLARE-ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- FLARE-PSALM in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- FLARE-SYNCED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- FORCE-COMMAND in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- FURNACE-ZONE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- GLYPH-ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- GLYPH-RANGE in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- GLYPH-VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- GLYPHWAVE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- HALLOWHALL in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- HALLOWHALL in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- HARANAE in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- HARENAE in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- HARMONY-THREAD in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- HARMONY-THREAD in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- HOLLOW-SEAT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- HOLLOW-SEAT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- HOLLOW-SEAT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- KYHTRIUM-RISK in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- LATTICE-NODE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- LATTICE-SYNCED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- LYVIANNE in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- LYVIANNE-LOCKED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- MARSHALS in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- MEMORY-NET in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- META in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- MOON-FRAGMENTED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- MYTHCORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- NEXOVAR in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- O0-V-BARRIER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- OATH-CHAIN in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- OATH-CHAIN in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- OATH-CHAIN in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- OATH-CHAIN in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- PATH-OF-THE-HOWLER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- PSALM-IV in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- PSALM-IV in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- PULSE-LATTICE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- PULSEKEEPER in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- PULSEKEEPER in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- RAW in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- RAW in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- RCD in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- RESONANCE in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- RESONANCE-CLOAK in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- RIF in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- RIF in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- RITUAL-NODE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- RITUAL-NODE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RITUAL-NODE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- RITUAL-NODE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- RMF in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- ROGUE-ORBIT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- RSAD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- RSAD in /mnt/data/AIV0.174/System/Logs/Anchor_Rewrite_Log_FULL.md
+- RSD in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- RSD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- RSD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- RSID in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- RSID in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- RSID in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- RSID in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- RSID in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- RSID in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- SECOND-RANGER in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- SEED-CYCLE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- SEED-ECHO in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- SEED-ECHO in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- SEED-LINE in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- SEED-TIMED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- SEEDFLOW-RITE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- SHARD-DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- SHARD-DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- SHARD-DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- SHARD-DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- SHARD-DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- SHARD-DRIFT in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- SHARD-SYNCED in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- SHRIEK-BELT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- SHRIEK-BELT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- SHRIEK-BELT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- SHRIEK-BELT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- SHRIEK-BELT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- SHRIEK-BELT in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- SOLARII in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- SPINE-BREAK in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- SPIRELINE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- SPIRELINE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- STELLAR-FIELD in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- STORM-ANCHOR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- THALOS in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- THE-BRIDGE-REVOLT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- THE-HOLLOW-SEAT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- THE-HOLLOW-SEAT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- UNIVERSAL-INDEX in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- VA'TARI in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/RH-R_The_Range_History_v2.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- VAELUS in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.1_Solarii.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- VAULT in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- VAULT-1 in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- VAULT-6 in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- VAULT-ANCHOR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.2_Caldrax.md
+- VAULT-NODE in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSID-FAC001_Lighthouse.md
+- VAULT-NODE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSID-FAC001_Lighthouse.md
+- VAULT-PULSE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- VEIL-PROTOCOL in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- VEIL-PROTOCOL in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- VEIL-PROTOCOL in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- VEIL-PROTOCOL in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- VEIL-PROTOCOL in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- VOID-ADJACENT in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- WATCH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md
+- WATCH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/TUHS_RAW.md
+- WATCH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- WATCH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md
+- WATCH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- WATCH in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- WHITE-TEETH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- WHITE-TEETH in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005.3_Aransas.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Thalos.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO008_Crydon.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO009_Shard_Drift.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Canon_Planets/UHP-001_System_Structure_Overview.md
+- ZHUR in /mnt/data/AIV0.174/Crypt/Meta/Echo_of_the_Void.md
+- ZHURO-CORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO001_Crimsun.md
+- ZHURO-CORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004.1_Lyvianne.md
+- ZHURO-CORE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO005_Vaelus.md
+- ZHURO-FORGE in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO007_Harenae.md
+- ZHURO-HARMONIC in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO004_Nexovar.md
+- ZHURO-PLASMA in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-EX020_Emberline.md
+- ` OR `<!-- DNA:`
+2. RESTORE ORIGINAL METADATA FROM BACKUPS IF NEEDED.
+REGEX:
+```REGEX
+^<!-- (ANCHORS|DNA):.*? in /mnt/data/AIV0.174/System/Operations/ASCE_Revert_Protocol.md
+- | REWRITEABLE: TRUE | REWRITES: 0 | HARMONIZE: NULL in /mnt/data/AIV0.174/Crypt/Canon_Planets/RSAD-PO003_Aeras.md
