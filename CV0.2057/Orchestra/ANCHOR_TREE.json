@@ -1,0 +1,162 @@
+{
+  "version": "1.0",
+  "build": "CV0.2047",
+  "anchors": {
+    "RSAD-PO005.3_Aransas": {
+      "path": "Crypt/Canon/RSAD-PO005.3_Aransas.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-EX020_Emberline": {
+      "path": "Crypt/Canon/RSAD-EX020_Emberline.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO001_Crimsun": {
+      "path": "Crypt/Canon/RSAD-PO001_Crimsun.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO003_Aeras": {
+      "path": "Crypt/Canon/RSAD-PO003_Aeras.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO004.1_Lyvianne": {
+      "path": "Crypt/Canon/RSAD-PO004.1_Lyvianne.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": "LYVIANNE_SONG_MOON_IN_THE_BELT.md",
+      "linked_fragments": [
+        "CONDUCTOR_FRAGMENT.md"
+      ],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO004_Nexovar": {
+      "path": "Crypt/Canon/RSAD-PO004_Nexovar.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": "NEXOVAR_SONG_THE_GIANT_SCREAMS_IN_SILENCE.md",
+      "linked_fragments": [
+        "GOD_THAT_SCREAMS.md"
+      ],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO005.1_Solarii": {
+      "path": "Crypt/Canon/RSAD-PO005.1_Solarii.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO005.2_Caldrax": {
+      "path": "Crypt/Canon/RSAD-PO005.2_Caldrax.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO005_Thalos": {
+      "path": "Crypt/Canon/RSAD-PO005_Thalos.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO005_Vaelus": {
+      "path": "Crypt/Canon/RSAD-PO005_Vaelus.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO007_Harenae": {
+      "path": "Crypt/Canon/RSAD-PO007_Harenae.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO008_Crydon": {
+      "path": "Crypt/Canon/RSAD-PO008_Crydon.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": "CRYDON_SONG_VEINS_OF_THE_VAULT.md",
+      "linked_fragments": [
+        "SHATTERLINE_CORE_ECHO.md"
+      ],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSAD-PO009_Shard_Drift": {
+      "path": "Crypt/Canon/RSAD-PO009_Shard_Drift.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "RSID-FAC001_Lighthouse": {
+      "path": "Crypt/Canon/RSID-FAC001_Lighthouse.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    },
+    "UHP-001_System_Structure_Overview": {
+      "path": "Crypt/Canon/UHP-001_System_Structure_Overview.md",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "rms_tag": "PERSISTENT",
+      "linked_song": null,
+      "linked_fragments": [],
+      "replaced_versions": [],
+      "retired_duplicates": []
+    }
+  }
+}

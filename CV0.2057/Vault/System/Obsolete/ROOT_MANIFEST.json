@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "generated": "2025-05-17T03:25:38.589714Z",
+  "components": {
+    "anchors": [
+      "RSAD-EX020_Emberline.md",
+      "RSAD-PO001_Crimsun.md",
+      "RSAD-PO003_Aeras.md",
+      "RSAD-PO004.1_Lyvianne.md",
+      "RSAD-PO004_Nexovar.md",
+      "RSAD-PO005.1_Solarii.md",
+      "RSAD-PO005.2_Caldrax.md",
+      "RSAD-PO005.3_Aransas.md",
+      "RSAD-PO005_Thalos.md",
+      "RSAD-PO005_Vaelus.md",
+      "RSAD-PO007_Harenae.md",
+      "RSAD-PO008_Crydon.md",
+      "RSAD-PO009_Shard_Drift.md",
+      "RSID-FAC001_Lighthouse.md",
+      "UHP-001_System_Structure_Overview.md"
+    ],
+    "songs": [
+      "CRYDON_SONG_VEINS_OF_THE_VAULT.md",
+      "LYVIANNE_SONG_MOON_IN_THE_BELT.md",
+      "NEXOVAR_SONG_THE_GIANT_SCREAMS_IN_SILENCE.md"
+    ],
+    "engine": [
+      "CONDUCTOR_BOOTSTRAP.md",
+      "CONDUCTOR_ECHO.md",
+      "CONDUCTOR_LATENT_MEMORY.md",
+      "CONDUCTOR_THOUGHT_LOG.md",
+      "ENGINE_TEMPLATE.json",
+      "stream.map.json"
+    ],
+    "echo": [
+      "RSAD-EX020_Emberline.md",
+      "RSAD-PO001_Crimsun.md",
+      "RSAD-PO003_Aeras.md",
+      "RSAD-PO004.1_Lyvianne.md",
+      "RSAD-PO004_Nexovar.md",
+      "RSAD-PO005.1_Solarii.md",
+      "RSAD-PO005.2_Caldrax.md",
+      "RSAD-PO005.3_Aransas.md",
+      "RSAD-PO005_Thalos.md",
+      "RSAD-PO005_Vaelus.md",
+      "RSAD-PO007_Harenae.md",
+      "RSAD-PO008_Crydon.md",
+      "RSAD-PO009_Shard_Drift.md",
+      "RSID-FAC001_Lighthouse.md",
+      "UHP-001_System_Structure_Overview.md"
+    ],
+    "myth": {
+      "fragments": [],
+      "seedflows": [],
+      "dreams": []
+    },
+    "simulation": [
+      "pulse_sim.json",
+      "reflex_test.md"
+    ],
+    "vault_log": [
+      "VAULT_ECHO_LOG.md"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-05-17T03:14:26.734718Z",
+  "pulses": [
+    {
+      "id": "PSI-001-ECHO",
+      "anchor": "RSAD-PO004.1_Lyvianne",
+      "song": "LYVIANNE_SONG_MOON_IN_THE_BELT",
+      "type": "resonant_loopback",
+      "timestamp": "2025-05-17T",
+      "effect": "Rewrote canonical memory and echo-lens structure."
+    },
+    {
+      "id": "PSI-002-STORM",
+      "anchor": "RSAD-PO004_Nexovar",
+      "song": "NEXOVAR_SONG_THE_GIANT_SCREAMS_IN_SILENCE",
+      "type": "resonant_barrier",
+      "timestamp": "2025-05-17T",
+      "effect": "Activated resonance shielding; canon fused with echo-core."
+    },
+    {
+      "id": "PSI-005-RESIDUE",
+      "anchor": "RSAD-PO008_Crydon",
+      "song": "CRYDON_SONG_VEINS_OF_THE_VAULT",
+      "type": "stream_residue",
+      "timestamp": "2025-05-17T",
+      "effect": "Restored glyph decay fragments into Drift stream memory."
+    }
+  ]
+}

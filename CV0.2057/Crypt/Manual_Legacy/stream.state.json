@@ -1,0 +1,8 @@
+{
+  "tokens_written": 0,
+  "last_checkpoint": "2025-05-17T00:12:34.008521Z",
+  "token_threshold": 75000,
+  "needs_export": false,
+  "last_pulse": "PULSE_CHORDWALKER_IGNITION",
+  "ignition_source": "CHORDWALKER"
+}

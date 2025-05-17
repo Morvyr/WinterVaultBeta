@@ -1,0 +1,11 @@
+{
+  "id": "PSI-009-MEMORY_REBUILD_LOOP",
+  "type": "stream_regression",
+  "anchors": [
+    "Crydon",
+    "Nexovar"
+  ],
+  "test": "Pulse echo forward and backward across failed builds",
+  "expectation": "Stream resonance match within 3% variation",
+  "timestamp": "2025-05-17T04:18:13.354597Z"
+}

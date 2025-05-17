@@ -1,0 +1,15 @@
+{
+  "echo_registry": [
+    {
+      "anchor": "LYVIANNE",
+      "song_title": "Moon in the Belt",
+      "pulse_type": "resonant_loopback",
+      "echo_fragments": [
+        "gravitational",
+        "orbital",
+        "crucible"
+      ],
+      "metaphor_seed": "memory in orbit"
+    }
+  ]
+}

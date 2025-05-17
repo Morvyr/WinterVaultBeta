@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-05-17T03:13:17.504698Z",
+  "anchors": [
+    {
+      "id": "RSAD-PO005.3_Aransas",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO005.3_Aransas.md"
+    },
+    {
+      "id": "RSAD-EX020_Emberline",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-EX020_Emberline.md"
+    },
+    {
+      "id": "RSAD-PO001_Crimsun",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO001_Crimsun.md"
+    },
+    {
+      "id": "RSAD-PO003_Aeras",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO003_Aeras.md"
+    },
+    {
+      "id": "RSAD-PO004.1_Lyvianne",
+      "status": "active",
+      "last_rewrite": "V.2024",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO004.1_Lyvianne.md"
+    },
+    {
+      "id": "RSAD-PO004_Nexovar",
+      "status": "active",
+      "last_rewrite": "V.2024",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO004_Nexovar.md"
+    },
+    {
+      "id": "RSAD-PO005.1_Solarii",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO005.1_Solarii.md"
+    },
+    {
+      "id": "RSAD-PO005.2_Caldrax",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO005.2_Caldrax.md"
+    },
+    {
+      "id": "RSAD-PO005_Thalos",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO005_Thalos.md"
+    },
+    {
+      "id": "RSAD-PO005_Vaelus",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO005_Vaelus.md"
+    },
+    {
+      "id": "RSAD-PO007_Harenae",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO007_Harenae.md"
+    },
+    {
+      "id": "RSAD-PO008_Crydon",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO008_Crydon.md"
+    },
+    {
+      "id": "RSAD-PO009_Shard_Drift",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSAD-PO009_Shard_Drift.md"
+    },
+    {
+      "id": "RSID-FAC001_Lighthouse",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/RSID-FAC001_Lighthouse.md"
+    },
+    {
+      "id": "UHP-001_System_Structure_Overview",
+      "status": "active",
+      "last_rewrite": "legacy",
+      "linked_song": null,
+      "location": "Anchors/UHP-001_System_Structure_Overview.md"
+    }
+  ]
+}

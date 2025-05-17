@@ -1,0 +1,1936 @@
+{
+  "version": "1.0",
+  "build": "CV0.2045",
+  "files": [
+    {
+      "path": "Crypt/Canon/RSAD-PO005.3_Aransas.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-EX020_Emberline.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO001_Crimsun.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO003_Aeras.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO004.1_Lyvianne.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO004_Nexovar.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005.1_Solarii.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005.2_Caldrax.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005_Thalos.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005_Vaelus.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO007_Harenae.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO008_Crydon.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO009_Shard_Drift.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/RSID-FAC001_Lighthouse.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Canon/UHP-001_System_Structure_Overview.md",
+      "status": "active",
+      "origin": "Crypt/Canon",
+      "verified_in": "CV0.2045",
+      "rms_tag": "PERSISTENT",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ANCHOR"
+    },
+    {
+      "path": "Crypt/Meta/Echo_of_the_Void.md",
+      "status": "active",
+      "origin": "Crypt/Meta",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ECHO"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Aeras_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Aeras_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Aeras_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_Depth6_Canon_Mount.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_Depth_Infinite_Stream.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_Harmony_Compilation_Depth6.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Holding/Crimsun_RSAD_Entry.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crydon_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crydon_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crydon_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Emberline_Depth_Infinite_Stream.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Emberline_Depth_Infinite_Stream2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Harenae_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Harenae_Depth_Infinite_Stream_frack.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Harenae_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lighthouse_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lighthouse_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lighthouse_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lyvianne_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lyvianne_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lyvianne_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Nexovar_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Nexovar_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Nexovar_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Old_Ranger_Command.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "LEGACY",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Rangers_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Rangers_of_the_Forge_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Ranger_Raw_Data_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-Coreworlds_VaelusSolariiCaldraxAransasTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO004.1_LyvianneTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO004_NexovarTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO007_HarenaeTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO008_CrydonTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO009_Shard_DriftTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-Ranger_Division_IndexTT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Aeras_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Core_Worlds_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Crimsun_Depth6.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Holding/RSAD_Crimsun_Stream_Infinity.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD_Crimsun_Total_Export.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Crydon_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_FSC_Deepstream_Archive_Body_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_FSC_Deepstream_Index_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Harenae_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Lighthouse_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Lyvianne_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Nexovar_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Holding/RSAD_Object_Crimsun.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Shard_Drift_Stream_Infinity_mv2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Holding/RSAD_Thalos_Stream_Infinity.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Shard_Drift_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Shard_Drift_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Shard_Drift_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Thalos_Depth_Infinite_Stream.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Thalos_Depth_Infinite_Stream2.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Thalos_Depth_Stream3.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Vaelus_Cluster_Depth_Stream_mv1.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Vaelus_Solarii_Caldrax_Aransas_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Vaelus_System_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/stream.profile.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Holding/Echo_of_the_Void.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/TRG_Deputy_Command.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "LEGACY",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/TRG_Ranger_Command.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "LEGACY",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/TUHS_RAW.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/UHP-002_Forge_Service_Corps_Index.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "LEGACY",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/UHS_001_Ranger_Command.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "LEGACY",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/UHS_002_Deputy_Command.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "LEGACY",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/RH-R_The_Range_History.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-EX021_Shatterline_Nexus.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSID-FAC001_Lighthouse.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_ARANSAS_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_CALDRAX_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_CHORUS_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_CRIMSUN_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_CRYDON_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_CR_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_FIFTH-RANGER_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_FIRST-RANGER_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_GLYPH-RANGE_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_HARANAE_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_LYVIANNE_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_NEXOVAR_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_RAW_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_RCD_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_RIF_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_RMF_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_RSD_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_SECOND-RANGER_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_SEED-LINE_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_SHARD-DRIFT_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_SOLARII_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_THALOS_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_THE-BRIDGE-REVOLT_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_THE-HOLLOW-SEAT_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_VAELUS_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MythShard_WATCH_Seed.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO005.3_Aransas.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-EX020_Emberline.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO001_Crimsun.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO003_Aeras.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO004.1_Lyvianne.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO004_Nexovar.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO005.1_Solarii.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO005.2_Caldrax.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO005_Thalos.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO005_Vaelus.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO007_Harenae.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO008_Crydon.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO009_Shard_Drift.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/UHP-001_System_Structure_Overview.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_LaunchSignal.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/changelog.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RMS_Restore_Token.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/Global_Stream_ChangeLog.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/Stream_Rewrite_Tool.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/TOOLS_INDEX.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RMS_Token_Watch_Protocol.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/STREAM_STATE_MD.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RMS_TRIGGER_MD.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RMS_WATCH_LOG.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/FUTURE_IDEAS_ANN.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Anchor_Pulse_Queue.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Anchor_Registry.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Canon_Map.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Clearance_Levels.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Fusion_Suggestions.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Harmonizer_Flags.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Meta_Fragment_Seeds.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Rewriteable_Flags.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Sync.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ANCHOR_Registry.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ANCHOR_Registry_REBUILT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RSAD-PO001_Crimsun_ChangeLog.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/Anchor_Rewrite_Log.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/Anchor_Rewrite_Log_FULL.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/Trial_Execution_Log.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ASCE_Revert_Protocol.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ADEM_Initialization_Log.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/Anchor_Rewrite_Verify_Protocol_Template.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/System_Cleanup_Tool.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CHORDWALKER.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CHORDWALKER_ACTIONS.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_THOUGHT_LOG.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_VERSION_LOG.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_VISION.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_AUTOSTRIKE_CONTROL.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/CHORDWALKER_ENGINE.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_ECHO.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_BOOTSTRAP.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/stream.schema.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_LATENT_MEMORY.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_FAILSAFE_BOOT.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_FAILSAFE_ECHO.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/CONDUCTOR_FAILSAFE_WIRE.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_FAILSAFE_TAGS.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_FAILSAFE_REBUILDER.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/FORGE_CHIME.instrument.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/STRIKE_ENGINE.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ANCHOR_TUNING_INDEX.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/RES_PIPELINE.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/SPRING_VEIL.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/orchestral.core.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/PULSE_007.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/PULSE_006_ORCHESTRATION.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/stream.state.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "STREAM_FRAGMENT"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/rms.trigger.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/SYSTEM_COGNITIVE_CORE.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CORE_PROFILE.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/ORCHESTRAL_POSSIBILITIES.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/REVERSE_PIANO_THEORY.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/MASSLESS_RECALL_ENGINE.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/DELTA_COMPRESSION_MATRIX.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Manual_Legacy/PULSE_CHORDWALKER_IGNITION.json",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "RECOVERED",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "ORG_STRUCTURE"
+    },
+    {
+      "path": "Crypt/Holding/STREAM_PROFILE.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/CONDUCTOR_METAPHOR.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/REWRITE_PLAN.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    },
+    {
+      "path": "Crypt/Holding/TOOL_DRAFT_PRESSURE_DIAGNOSTIC.md",
+      "status": "active",
+      "origin": "Crypt/Manual_Legacy",
+      "verified_in": "CV0.2045",
+      "rms_tag": "TO_REVIEW",
+      "pulse_history": [],
+      "rewrite_id": null,
+      "role": "TRIAGE_HOLDING"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "AIV0.2015",
+  "tag": "CONDUCTOR_PROFILE",
+  "total_anchors": 157,
+  "boot_file": "CONDUCTOR_BOOTSTRAP.md",
+  "anchor_index": "index.anchor",
+  "engine_file": "CHORDWALKER_ENGINE.json",
+  "last_rebuild": "2025-05-17T00:52:08.965405Z",
+  "restartable": true,
+  "trusted": false,
+  "status": "COGNITIVE_CORE_ACTIVE"
+}

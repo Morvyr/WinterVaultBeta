@@ -1,0 +1,17 @@
+ANCHOR:ASCE_HARMONIZER_FLAGS
+TAGS: []
+LINKS: []
+TIER: SYSTEM
+TOOL_TYPE: SYSTEM_EXECUTOR
+AFFECTED_ANCHORS: []
+STATUS: LIVE
+
+# ASCE Harmonizer Flags
+Use in documents to echo facts from another source file:
+
+```md
+<!-- HARMONIZE: FROM RSAD-PO004_Nexovar.md -->
+```
+
+ANCHOR_HISTORY:
+  - 2025-05-16T06:14Z: FINAL_HARMONIZATION

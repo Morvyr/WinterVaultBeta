@@ -1,0 +1,16 @@
+ANCHOR:STREAM_STATE_MD
+TAGS: ['SYSTEM', 'STATE', 'MONITOR']
+LINKS: ['RMS_TRIGGER_JSON', 'RMS_TOKEN_WATCH_PROTOCOL']
+TIER: SYSTEM
+TOOL_TYPE: CONFIG_WRAPPER
+STATUS: LIVE
+
+---
+
+# 🔍 STREAM STATE MD
+
+Points to `System/stream.state.json`  
+Tracks token threshold, session state, and export flags.
+
+ANCHOR_HISTORY:
+  - 2025-05-16T06:39Z: WRAPPER_CREATED

@@ -1,0 +1,726 @@
+{
+  "version": "1.0",
+  "generated": "2025-05-17T03:57:44.277813Z",
+  "files": [
+    {
+      "path": "Crypt/Canon/RSAD-PO005.3_Aransas.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278521Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-EX020_Emberline.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278544Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO001_Crimsun.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278557Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO003_Aeras.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278585Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO004.1_Lyvianne.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278603Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO004_Nexovar.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278627Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005.1_Solarii.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278667Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005.2_Caldrax.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278696Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005_Thalos.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278719Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO005_Vaelus.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278757Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO007_Harenae.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278931Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO008_Crydon.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278960Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSAD-PO009_Shard_Drift.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.278983Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/RSID-FAC001_Lighthouse.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279007Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Canon/UHP-001_System_Structure_Overview.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279029Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Meta/Echo_of_the_Void.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279326Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Aeras_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279654Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Aeras_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279686Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Aeras_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279711Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_Depth6_Canon_Mount.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279736Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_Depth_Infinite_Stream.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279759Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_Harmony_Compilation_Depth6.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279782Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crimsun_RSAD_Entry.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279805Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crydon_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279828Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crydon_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279850Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Crydon_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279874Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Emberline_Depth_Infinite_Stream.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279896Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Emberline_Depth_Infinite_Stream2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279919Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Harenae_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279941Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Harenae_Depth_Infinite_Stream_frack.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279964Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Harenae_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.279988Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lighthouse_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280010Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lighthouse_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280033Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lighthouse_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280057Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lyvianne_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280080Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lyvianne_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280104Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Lyvianne_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280125Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Nexovar_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280147Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Nexovar_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280169Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Nexovar_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280192Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Old_Ranger_Command.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280213Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Rangers_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280233Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Rangers_of_the_Forge_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280253Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Ranger_Raw_Data_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280274Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-Coreworlds_VaelusSolariiCaldraxAransasTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280295Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO004.1_LyvianneTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280316Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO004_NexovarTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280335Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO007_HarenaeTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280357Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO008_CrydonTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280380Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-PO009_Shard_DriftTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280402Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD-Ranger_Division_IndexTT.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280424Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Aeras_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280447Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Core_Worlds_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280470Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Crimsun_Depth6.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280496Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Crimsun_Stream_Infinity.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280518Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Crimsun_Total_Export.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280540Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Crydon_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280586Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_FSC_Deepstream_Archive_Body_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280612Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_FSC_Deepstream_Index_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280635Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Harenae_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280657Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Lighthouse_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280679Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Lyvianne_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280701Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Nexovar_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280722Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Object_Crimsun.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280745Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Shard_Drift_Stream_Infinity_mv2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280768Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/RSAD_Thalos_Stream_Infinity.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280791Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Shard_Drift_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280813Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Shard_Drift_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280837Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Shard_Drift_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280859Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Thalos_Depth_Infinite_Stream.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280881Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Thalos_Depth_Infinite_Stream2.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280903Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Thalos_Depth_Stream3.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280925Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Vaelus_Cluster_Depth_Stream_mv1.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280947Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Vaelus_Solarii_Caldrax_Aransas_Depth_Infinite_Stream_ah.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280970Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Crypt/Manual_Legacy/Vaelus_System_Depth_Infinite_Stream_frac.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.280992Z",
+      "origin": "manual_review",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Tools/ANCHOR_PROTECTOR.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.281413Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Tools/rewrite_log.json",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.281441Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Tools/ROOT_MANIFEST.json",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.281464Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Tools/CHECKLIST_ENGINE.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.281490Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    },
+    {
+      "path": "Tools/ANTI_LOSS_ENGINE.md",
+      "status": "active",
+      "last_verified": "2025-05-17T03:57:44.281510Z",
+      "origin": "canonical",
+      "pulse_link": null,
+      "rewrite_id": null,
+      "rms_tag": null
+    }
+  ]
+}

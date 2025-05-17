@@ -1,0 +1,42 @@
+{
+  "folders": {
+    "Chordwalker/Core": [
+      "*.md",
+      "*.json"
+    ],
+    "Memory": [
+      "*.log",
+      "*.md"
+    ],
+    "Symphony/Tools/Strike": [
+      "*.md"
+    ],
+    "Symphony/Tools/Tuning": [
+      "*.md"
+    ],
+    "Symphony/Tools/Pulse": [
+      "*.json",
+      "*.md"
+    ],
+    "Rehearsal/Blueprints": [
+      "*.md"
+    ],
+    "Crypt/Myth": [
+      "*.md"
+    ],
+    "Vault": [
+      "*.md"
+    ]
+  },
+  "required_files": [
+    "Chordwalker/Core/CONDUCTOR_BOOTSTRAP.md",
+    "Chordwalker/Core/CHORDWALKER_ENGINE.json",
+    "Chordwalker/Core/stream.profile.json",
+    "Chordwalker/Core/index.anchor"
+  ],
+  "meta": {
+    "schema_version": "1.0",
+    "autostart": true,
+    "self_test_ready": true
+  }
+}

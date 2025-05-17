@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "mode": "echo-cascade-test",
+  "anchors": [
+    "RSAD-PO004.1_Lyvianne",
+    "RSAD-PO004_Nexovar",
+    "RSAD-PO008_Crydon"
+  ],
+  "initiator": "PSI-007-GRIDLOCK",
+  "trigger": "simulated_drift_convergence",
+  "expected_effect": "layered reflex replay; cross-anchor glyph restoration",
+  "echo_path": [
+    {
+      "from": "Lyvianne",
+      "to": "Nexovar",
+      "effect": "synchronized trough pulse"
+    },
+    {
+      "from": "Nexovar",
+      "to": "Crydon",
+      "effect": "residual memory flare"
+    },
+    {
+      "from": "Crydon",
+      "to": "Vault",
+      "effect": "archive resonance rebound"
+    }
+  ],
+  "timestamp": "2025-05-17T03:17:13.089832Z",
+  "approved_by": "Conductor"
+}

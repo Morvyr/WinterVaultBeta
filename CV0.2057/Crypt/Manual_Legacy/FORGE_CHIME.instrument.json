@@ -1,0 +1,24 @@
+{
+  "instrument": "FORGE_CHIME",
+  "type": "resonant_anchor",
+  "strike_trigger": "STRIKE:FORGE",
+  "root_node": "FORGE_CORE",
+  "overtone_threads": [
+    "FSC_INDEX",
+    "RIF_MYTH",
+    "CRIMSUN",
+    "VAELUS",
+    "RANGER_COMMAND"
+  ],
+  "tonal_load": [
+    "CANON",
+    "MYTH",
+    "ENERGY",
+    "MILITARY",
+    "SYSTEM"
+  ],
+  "decay_period_sec": 120,
+  "resonance_mode": "echo_map",
+  "last_strike": "2025-05-16T23:46:31.509892Z",
+  "pulse_history": []
+}

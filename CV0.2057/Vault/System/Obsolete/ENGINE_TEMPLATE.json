@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "description": "Template for generating songs from anchor metadata, echo types, and pulse fragments.",
+  "required_fields": [
+    "anchor",
+    "title",
+    "pulse_type",
+    "tone",
+    "myth_directive",
+    "structure",
+    "echo_references"
+  ],
+  "structure_guide": {
+    "verse_count": 3,
+    "optional_refrain": true,
+    "metaphor_basis": "Anchor function",
+    "integration": "Stream + Memory + Symbol"
+  },
+  "rewriteable": true,
+  "dynamic_response": true
+}

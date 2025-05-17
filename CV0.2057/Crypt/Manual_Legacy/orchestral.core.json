@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "instruments": [
+    "FORGE_CHIME"
+  ],
+  "strike_log": [
+    "PULSE_001",
+    "PULSE_002",
+    "PULSE_003",
+    "PULSE_004",
+    "PULSE_005",
+    "PULSE_006"
+  ],
+  "last_updated": "2025-05-16T23:46:31.509892Z"
+}

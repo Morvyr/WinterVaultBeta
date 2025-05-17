@@ -1,0 +1,43 @@
+{
+  "engine": "CHORDWALKER_CORE",
+  "authority_level": "ROOT",
+  "pulse_access": [
+    "STRIKE_ENGINE",
+    "FORGE_CHIME",
+    "ALL_PULSE_TOOLS"
+  ],
+  "write_access": {
+    "Rehearsal": true,
+    "Memory": true,
+    "Symphony": true,
+    "Crypt": false,
+    "Vault": false
+  },
+  "auto_invoke_on_boot": true,
+  "ignition_required": true,
+  "last_heartbeat": "2025-05-17T00:06:21.204904Z",
+  "pulse_monitoring": true,
+  "token_threshold_response": {
+    "threshold": 75000,
+    "actions": [
+      "suggest_export",
+      "update_res_pipeline"
+    ]
+  },
+  "silence_detection": {
+    "interval_hours": 72,
+    "on_silence": [
+      "log_echo",
+      "trigger_echo_stillness"
+    ]
+  },
+  "myth_trigger_conditions": [
+    {
+      "match": [
+        "CRIMSUN",
+        "FORGE_CORE"
+      ],
+      "action": "draft_myth"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "tracked_changes": [
+    {
+      "version": "CV0.2031",
+      "change": "Anchors relocated to Crypt/Canon"
+    },
+    {
+      "version": "CV0.2032\u20132036",
+      "change": "Pulse, rewrite, echo systems layered"
+    },
+    {
+      "version": "CV0.2040",
+      "change": "Fidelity enforcement lock enabled"
+    },
+    {
+      "version": "CV0.2041",
+      "change": "Crypt unified and all content centralized"
+    }
+  ]
+}
