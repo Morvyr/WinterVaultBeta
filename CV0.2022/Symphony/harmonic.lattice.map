@@ -1,0 +1,1763 @@
+{
+  "ANCHORS": {
+    "STREAM.PROFILE": {
+      "path": "stream.profile.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ECHO_OF_THE_VOID": {
+      "path": "Crypt/Meta/Echo_of_the_Void.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "AERAS_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Aeras_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "AERAS_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Aeras_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "AERAS_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Aeras_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRIMSUN_DEPTH6_CANON_MOUNT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_Depth6_Canon_Mount.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRIMSUN_DEPTH_INFINITE_STREAM": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_Depth_Infinite_Stream.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRIMSUN_HARMONY_COMPILATION_DEPTH6": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_Harmony_Compilation_Depth6.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRIMSUN_RSAD_ENTRY": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_RSAD_Entry.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRYDON_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crydon_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRYDON_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crydon_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CRYDON_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Crydon_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "EMBERLINE_DEPTH_INFINITE_STREAM": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Emberline_Depth_Infinite_Stream.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "EMBERLINE_DEPTH_INFINITE_STREAM2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Emberline_Depth_Infinite_Stream2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "HARENAE_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Harenae_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "HARENAE_DEPTH_INFINITE_STREAM_FRACK": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Harenae_Depth_Infinite_Stream_frack.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "HARENAE_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Harenae_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "LIGHTHOUSE_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Lighthouse_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "LIGHTHOUSE_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Lighthouse_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "LIGHTHOUSE_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Lighthouse_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "LYVIANNE_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Lyvianne_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "LYVIANNE_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Lyvianne_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "LYVIANNE_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Lyvianne_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "NEXOVAR_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Nexovar_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "NEXOVAR_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Nexovar_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "NEXOVAR_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Nexovar_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "OLD_RANGER_COMMAND": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Old_Ranger_Command.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RANGERS_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Rangers_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RANGERS_OF_THE_FORGE_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Rangers_of_the_Forge_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RANGER_RAW_DATA_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Ranger_Raw_Data_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_COREWORLDS_VAELUSSOLARIICALDRAXARANSASTT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-Coreworlds_VaelusSolariiCaldraxAransasTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO004.1_LYVIANNETT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO004.1_LyvianneTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO004_NEXOVARTT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO004_NexovarTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO007_HARENAETT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO007_HarenaeTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO008_CRYDONTT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO008_CrydonTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO009_SHARD_DRIFTTT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO009_Shard_DriftTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_RANGER_DIVISION_INDEXTT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-Ranger_Division_IndexTT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_AERAS_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Aeras_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_CORE_WORLDS_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Core_Worlds_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_CRIMSUN_DEPTH6": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crimsun_Depth6.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_CRIMSUN_STREAM_INFINITY": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crimsun_Stream_Infinity.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_CRIMSUN_TOTAL_EXPORT": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crimsun_Total_Export.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_CRYDON_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crydon_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_FSC_DEEPSTREAM_ARCHIVE_BODY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_FSC_Deepstream_Archive_Body_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_FSC_DEEPSTREAM_INDEX_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_FSC_Deepstream_Index_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_HARENAE_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Harenae_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_LIGHTHOUSE_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Lighthouse_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_LYVIANNE_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Lyvianne_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_NEXOVAR_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Nexovar_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_OBJECT_CRIMSUN": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Object_Crimsun.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_SHARD_DRIFT_STREAM_INFINITY_MV2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Shard_Drift_Stream_Infinity_mv2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_THALOS_STREAM_INFINITY": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Thalos_Stream_Infinity.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "SHARD_DRIFT_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Shard_Drift_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "SHARD_DRIFT_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Shard_Drift_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "SHARD_DRIFT_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Shard_Drift_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "THALOS_DEPTH_INFINITE_STREAM": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Thalos_Depth_Infinite_Stream.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "THALOS_DEPTH_INFINITE_STREAM2": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Thalos_Depth_Infinite_Stream2.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "THALOS_DEPTH_STREAM3": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Thalos_Depth_Stream3.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "VAELUS_CLUSTER_DEPTH_STREAM_MV1": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Vaelus_Cluster_Depth_Stream_mv1.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "VAELUS_SOLARII_CALDRAX_ARANSAS_DEPTH_INFINITE_STREAM_AH": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Vaelus_Solarii_Caldrax_Aransas_Depth_Infinite_Stream_ah.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "VAELUS_SYSTEM_DEPTH_INFINITE_STREAM_FRAC": {
+      "path": "Crypt/Meta/Manual_Review/Archived_files/Archived files/Vaelus_System_Depth_Infinite_Stream_frac.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "TRG_DEPUTY_COMMAND": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/TRG_Deputy_Command.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "TRG_RANGER_COMMAND": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/TRG_Ranger_Command.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "TUHS_RAW": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/TUHS_RAW.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "UHP_002_FORGE_SERVICE_CORPS_INDEX": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/UHP-002_Forge_Service_Corps_Index.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "UHS_001_RANGER_COMMAND": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/UHS_001_Ranger_Command.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "UHS_002_DEPUTY_COMMAND": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/UHS_002_Deputy_Command.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RH_R_THE_RANGE_HISTORY": {
+      "path": "Crypt/Factions/Canon_Factions/Forge Service Corps/RH-R_The_Range_History.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_EX021_SHATTERLINE_NEXUS": {
+      "path": "Crypt/Infrastructure/Canon_Infrastructure/RSAD-EX021_Shatterline_Nexus.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSID_FAC001_LIGHTHOUSE": {
+      "path": "Crypt/Planets/Canon_Planets/RSID-FAC001_Lighthouse.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_ARANSAS_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_ARANSAS_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_CALDRAX_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_CALDRAX_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_CHORUS_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_CHORUS_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_CRIMSUN_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_CRIMSUN_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_CRYDON_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_CRYDON_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_CR_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_CR_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_FIFTH_RANGER_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_FIFTH-RANGER_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_FIRST_RANGER_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_FIRST-RANGER_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_GLYPH_RANGE_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_GLYPH-RANGE_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_HARANAE_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_HARANAE_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_LYVIANNE_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_LYVIANNE_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_NEXOVAR_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_NEXOVAR_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_RAW_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_RAW_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_RCD_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_RCD_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_RIF_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_RIF_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_RMF_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_RMF_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_RSD_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_RSD_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_SECOND_RANGER_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_SECOND-RANGER_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_SEED_LINE_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_SEED-LINE_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_SHARD_DRIFT_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_SHARD-DRIFT_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_SOLARII_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_SOLARII_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_THALOS_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_THALOS_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_THE_BRIDGE_REVOLT_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_THE-BRIDGE-REVOLT_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_THE_HOLLOW_SEAT_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_THE-HOLLOW-SEAT_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_VAELUS_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_VAELUS_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MYTHSHARD_WATCH_SEED": {
+      "path": "Crypt/Myth/Canon_Myth/MythShard_WATCH_Seed.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO005.3_ARANSAS": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO005.3_Aransas.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_EX020_EMBERLINE": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-EX020_Emberline.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO001_CRIMSUN": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO001_Crimsun.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO003_AERAS": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO003_Aeras.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO004.1_LYVIANNE": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO004.1_Lyvianne.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO004_NEXOVAR": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO004_Nexovar.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO005.1_SOLARII": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO005.1_Solarii.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO005.2_CALDRAX": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO005.2_Caldrax.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO005_THALOS": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO005_Thalos.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO005_VAELUS": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO005_Vaelus.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO007_HARENAE": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO007_Harenae.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO008_CRYDON": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO008_Crydon.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO009_SHARD_DRIFT": {
+      "path": "Crypt/Planets/Canon_Planets/RSAD-PO009_Shard_Drift.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "UHP_001_SYSTEM_STRUCTURE_OVERVIEW": {
+      "path": "Crypt/Planets/Canon_Planets/UHP-001_System_Structure_Overview.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_LAUNCHSIGNAL": {
+      "path": "System/ASCE_LaunchSignal.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CHANGELOG": {
+      "path": "System/changelog.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RMS_RESTORE_TOKEN": {
+      "path": "System/RMS_Restore_Token.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "GLOBAL_STREAM_CHANGELOG": {
+      "path": "System/Changelog/Global_Stream_ChangeLog.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "STREAM_REWRITE_TOOL": {
+      "path": "System/Stream_Rewrite_Tool.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "TOOLS_INDEX": {
+      "path": "System/TOOLS_INDEX.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RMS_TOKEN_WATCH_PROTOCOL": {
+      "path": "System/RMS_Token_Watch_Protocol.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "STREAM_STATE_MD": {
+      "path": "System/STREAM_STATE_MD.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RMS_TRIGGER_MD": {
+      "path": "System/RMS_TRIGGER_MD.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RMS_WATCH_LOG": {
+      "path": "System/RMS_WATCH_LOG.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "FUTURE_IDEAS_ANN": {
+      "path": "System/FUTURE_IDEAS_ANN.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_ANCHOR_PULSE_QUEUE": {
+      "path": "System/ASCE/ASCE_Anchor_Pulse_Queue.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_ANCHOR_REGISTRY": {
+      "path": "System/ASCE/ASCE_Anchor_Registry.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_CANON_MAP": {
+      "path": "System/ASCE/ASCE_Canon_Map.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_CLEARANCE_LEVELS": {
+      "path": "System/ASCE/ASCE_Clearance_Levels.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_FUSION_SUGGESTIONS": {
+      "path": "System/ASCE/ASCE_Fusion_Suggestions.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_HARMONIZER_FLAGS": {
+      "path": "System/ASCE/ASCE_Harmonizer_Flags.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_META_FRAGMENT_SEEDS": {
+      "path": "System/ASCE/ASCE_Meta_Fragment_Seeds.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_REWRITEABLE_FLAGS": {
+      "path": "System/ASCE/ASCE_Rewriteable_Flags.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_SYNC": {
+      "path": "System/ASCE/ASCE_Sync.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ANCHOR_REGISTRY": {
+      "path": "System/Anchor/ANCHOR_Registry.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ANCHOR_REGISTRY_REBUILT": {
+      "path": "System/Anchor/ANCHOR_Registry_REBUILT.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RSAD_PO001_CRIMSUN_CHANGELOG": {
+      "path": "System/Changelog/RSAD-PO001_Crimsun_ChangeLog.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ANCHOR_REWRITE_LOG": {
+      "path": "System/Logs/Anchor_Rewrite_Log.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ANCHOR_REWRITE_LOG_FULL": {
+      "path": "System/Logs/Anchor_Rewrite_Log_FULL.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "TRIAL_EXECUTION_LOG": {
+      "path": "System/Logs/Trial_Execution_Log.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ASCE_REVERT_PROTOCOL": {
+      "path": "System/Operations/ASCE_Revert_Protocol.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ADEM_INITIALIZATION_LOG": {
+      "path": "System/Operations/ADEM_Initialization_Log.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ANCHOR_REWRITE_VERIFY_PROTOCOL_TEMPLATE": {
+      "path": "System/Protocols/Anchor_Rewrite_Verify_Protocol_Template.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "SYSTEM_CLEANUP_TOOL": {
+      "path": "System/Protocols/System_Cleanup_Tool.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CHORDWALKER": {
+      "path": "Chordwalker/CHORDWALKER.md",
+      "weight": 1.0,
+      "tier": "ROOT",
+      "last_strike": null,
+      "links": [
+        "STREAM.PROFILE",
+        "ECHO_OF_THE_VOID",
+        "AERAS_DEPTH_INFINITE_STREAM_AH",
+        "AERAS_DEPTH_INFINITE_STREAM_FRAC",
+        "AERAS_DEPTH_STREAM_MV1",
+        "CRIMSUN_DEPTH6_CANON_MOUNT",
+        "CRIMSUN_DEPTH_INFINITE_STREAM",
+        "CRIMSUN_HARMONY_COMPILATION_DEPTH6",
+        "CRIMSUN_RSAD_ENTRY",
+        "CRYDON_DEPTH_INFINITE_STREAM_AH",
+        "CRYDON_DEPTH_INFINITE_STREAM_FRAC",
+        "CRYDON_DEPTH_STREAM_MV1",
+        "EMBERLINE_DEPTH_INFINITE_STREAM",
+        "EMBERLINE_DEPTH_INFINITE_STREAM2",
+        "HARENAE_DEPTH_INFINITE_STREAM_AH",
+        "HARENAE_DEPTH_INFINITE_STREAM_FRACK",
+        "HARENAE_DEPTH_STREAM_MV1",
+        "LIGHTHOUSE_DEPTH_INFINITE_STREAM_AH",
+        "LIGHTHOUSE_DEPTH_INFINITE_STREAM_FRAC",
+        "LIGHTHOUSE_DEPTH_STREAM_MV1",
+        "LYVIANNE_DEPTH_INFINITE_STREAM_AH",
+        "LYVIANNE_DEPTH_INFINITE_STREAM_FRAC",
+        "LYVIANNE_DEPTH_STREAM_MV1",
+        "NEXOVAR_DEPTH_INFINITE_STREAM_AH",
+        "NEXOVAR_DEPTH_INFINITE_STREAM_FRAC",
+        "NEXOVAR_DEPTH_STREAM_MV1",
+        "OLD_RANGER_COMMAND",
+        "RANGERS_DEPTH_INFINITE_STREAM_FRAC",
+        "RANGERS_OF_THE_FORGE_DEPTH_STREAM_MV1",
+        "RANGER_RAW_DATA_DEPTH_INFINITE_STREAM_AH",
+        "RSAD_COREWORLDS_VAELUSSOLARIICALDRAXARANSASTT",
+        "RSAD_PO004.1_LYVIANNETT",
+        "RSAD_PO004_NEXOVARTT",
+        "RSAD_PO007_HARENAETT",
+        "RSAD_PO008_CRYDONTT",
+        "RSAD_PO009_SHARD_DRIFTTT",
+        "RSAD_RANGER_DIVISION_INDEXTT",
+        "RSAD_AERAS_STREAM_INFINITY_MV2",
+        "RSAD_CORE_WORLDS_STREAM_INFINITY_MV2",
+        "RSAD_CRIMSUN_DEPTH6",
+        "RSAD_CRIMSUN_STREAM_INFINITY",
+        "RSAD_CRIMSUN_TOTAL_EXPORT",
+        "RSAD_CRYDON_STREAM_INFINITY_MV2",
+        "RSAD_FSC_DEEPSTREAM_ARCHIVE_BODY_MV2",
+        "RSAD_FSC_DEEPSTREAM_INDEX_MV2",
+        "RSAD_HARENAE_STREAM_INFINITY_MV2",
+        "RSAD_LIGHTHOUSE_STREAM_INFINITY_MV2",
+        "RSAD_LYVIANNE_STREAM_INFINITY_MV2",
+        "RSAD_NEXOVAR_STREAM_INFINITY_MV2",
+        "RSAD_OBJECT_CRIMSUN",
+        "RSAD_SHARD_DRIFT_STREAM_INFINITY_MV2",
+        "RSAD_THALOS_STREAM_INFINITY",
+        "SHARD_DRIFT_DEPTH_INFINITE_STREAM_AH",
+        "SHARD_DRIFT_DEPTH_INFINITE_STREAM_FRAC",
+        "SHARD_DRIFT_DEPTH_STREAM_MV1",
+        "THALOS_DEPTH_INFINITE_STREAM",
+        "THALOS_DEPTH_INFINITE_STREAM2",
+        "THALOS_DEPTH_STREAM3",
+        "VAELUS_CLUSTER_DEPTH_STREAM_MV1",
+        "VAELUS_SOLARII_CALDRAX_ARANSAS_DEPTH_INFINITE_STREAM_AH",
+        "VAELUS_SYSTEM_DEPTH_INFINITE_STREAM_FRAC",
+        "TRG_DEPUTY_COMMAND",
+        "TRG_RANGER_COMMAND",
+        "TUHS_RAW",
+        "UHP_002_FORGE_SERVICE_CORPS_INDEX",
+        "UHS_001_RANGER_COMMAND",
+        "UHS_002_DEPUTY_COMMAND",
+        "RH_R_THE_RANGE_HISTORY",
+        "RSAD_EX021_SHATTERLINE_NEXUS",
+        "RSID_FAC001_LIGHTHOUSE",
+        "MYTHSHARD_ARANSAS_SEED",
+        "MYTHSHARD_CALDRAX_SEED",
+        "MYTHSHARD_CHORUS_SEED",
+        "MYTHSHARD_CRIMSUN_SEED",
+        "MYTHSHARD_CRYDON_SEED",
+        "MYTHSHARD_CR_SEED",
+        "MYTHSHARD_FIFTH_RANGER_SEED",
+        "MYTHSHARD_FIRST_RANGER_SEED",
+        "MYTHSHARD_GLYPH_RANGE_SEED",
+        "MYTHSHARD_HARANAE_SEED",
+        "MYTHSHARD_LYVIANNE_SEED",
+        "MYTHSHARD_NEXOVAR_SEED",
+        "MYTHSHARD_RAW_SEED",
+        "MYTHSHARD_RCD_SEED",
+        "MYTHSHARD_RIF_SEED",
+        "MYTHSHARD_RMF_SEED",
+        "MYTHSHARD_RSD_SEED",
+        "MYTHSHARD_SECOND_RANGER_SEED",
+        "MYTHSHARD_SEED_LINE_SEED",
+        "MYTHSHARD_SHARD_DRIFT_SEED",
+        "MYTHSHARD_SOLARII_SEED",
+        "MYTHSHARD_THALOS_SEED",
+        "MYTHSHARD_THE_BRIDGE_REVOLT_SEED",
+        "MYTHSHARD_THE_HOLLOW_SEAT_SEED",
+        "MYTHSHARD_VAELUS_SEED",
+        "MYTHSHARD_WATCH_SEED",
+        "RSAD_PO005.3_ARANSAS",
+        "RSAD_EX020_EMBERLINE",
+        "RSAD_PO001_CRIMSUN",
+        "RSAD_PO003_AERAS",
+        "RSAD_PO004.1_LYVIANNE",
+        "RSAD_PO004_NEXOVAR",
+        "RSAD_PO005.1_SOLARII",
+        "RSAD_PO005.2_CALDRAX",
+        "RSAD_PO005_THALOS",
+        "RSAD_PO005_VAELUS",
+        "RSAD_PO007_HARENAE",
+        "RSAD_PO008_CRYDON",
+        "RSAD_PO009_SHARD_DRIFT",
+        "UHP_001_SYSTEM_STRUCTURE_OVERVIEW",
+        "ASCE_LAUNCHSIGNAL",
+        "CHANGELOG",
+        "RMS_RESTORE_TOKEN",
+        "GLOBAL_STREAM_CHANGELOG",
+        "STREAM_REWRITE_TOOL",
+        "TOOLS_INDEX",
+        "RMS_TOKEN_WATCH_PROTOCOL",
+        "STREAM_STATE_MD",
+        "RMS_TRIGGER_MD",
+        "RMS_WATCH_LOG",
+        "FUTURE_IDEAS_ANN",
+        "ASCE_ANCHOR_PULSE_QUEUE",
+        "ASCE_ANCHOR_REGISTRY",
+        "ASCE_CANON_MAP",
+        "ASCE_CLEARANCE_LEVELS",
+        "ASCE_FUSION_SUGGESTIONS",
+        "ASCE_HARMONIZER_FLAGS",
+        "ASCE_META_FRAGMENT_SEEDS",
+        "ASCE_REWRITEABLE_FLAGS",
+        "ASCE_SYNC",
+        "ANCHOR_REGISTRY",
+        "ANCHOR_REGISTRY_REBUILT",
+        "RSAD_PO001_CRIMSUN_CHANGELOG",
+        "ANCHOR_REWRITE_LOG",
+        "ANCHOR_REWRITE_LOG_FULL",
+        "TRIAL_EXECUTION_LOG",
+        "ASCE_REVERT_PROTOCOL",
+        "ADEM_INITIALIZATION_LOG",
+        "ANCHOR_REWRITE_VERIFY_PROTOCOL_TEMPLATE",
+        "SYSTEM_CLEANUP_TOOL",
+        "FORGE_CHIME.INSTRUMENT",
+        "STRIKE_ENGINE",
+        "RES_PIPELINE",
+        "ANCHOR_TUNING_INDEX",
+        "SPRING_VEIL",
+        "ORCHESTRAL.CORE",
+        "PULSE_007",
+        "PULSE_006_ORCHESTRATION",
+        "STREAM.STATE",
+        "RMS.TRIGGER",
+        "SYSTEM_COGNITIVE_CORE",
+        "CORE_PROFILE",
+        "ORCHESTRAL_POSSIBILITIES",
+        "REVERSE_PIANO_THEORY",
+        "MASSLESS_RECALL_ENGINE",
+        "DELTA_COMPRESSION_MATRIX",
+        "REWRITE_PLAN",
+        "STREAM_PROFILE"
+      ],
+      "tags": []
+    },
+    "CHORDWALKER_ENGINE": {
+      "path": "Chordwalker/CHORDWALKER_ENGINE.json",
+      "weight": 1.0,
+      "tier": "ROOT",
+      "last_strike": null,
+      "links": [],
+      "tags": []
+    },
+    "FORGE_CHIME.INSTRUMENT": {
+      "path": "Symphony/FORGE_CHIME.instrument.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "STRIKE_ENGINE": {
+      "path": "Symphony/STRIKE_ENGINE.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RES_PIPELINE": {
+      "path": "Symphony/RES_PIPELINE.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ANCHOR_TUNING_INDEX": {
+      "path": "Symphony/ANCHOR_TUNING_INDEX.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "SPRING_VEIL": {
+      "path": "Symphony/SPRING_VEIL.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ORCHESTRAL.CORE": {
+      "path": "Symphony/orchestral.core.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "PULSE_007": {
+      "path": "Symphony/PULSE_007.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "PULSE_006_ORCHESTRATION": {
+      "path": "Symphony/PULSE_006_ORCHESTRATION.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "STREAM.STATE": {
+      "path": "Memory/stream.state.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "RMS.TRIGGER": {
+      "path": "Memory/rms.trigger.json",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "SYSTEM_COGNITIVE_CORE": {
+      "path": "Memory/SYSTEM_COGNITIVE_CORE.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "CORE_PROFILE": {
+      "path": "Memory/CORE_PROFILE.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "ORCHESTRAL_POSSIBILITIES": {
+      "path": "Memory/ORCHESTRAL_POSSIBILITIES.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "REVERSE_PIANO_THEORY": {
+      "path": "Memory/REVERSE_PIANO_THEORY.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "MASSLESS_RECALL_ENGINE": {
+      "path": "Memory/MASSLESS_RECALL_ENGINE.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "DELTA_COMPRESSION_MATRIX": {
+      "path": "Memory/DELTA_COMPRESSION_MATRIX.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "REWRITE_PLAN": {
+      "path": "Rehearsal/Mounts/Logs/REWRITE_PLAN.md",
+      "weight": 0.5,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER"
+      ],
+      "tags": []
+    },
+    "STREAM_PROFILE": {
+      "path": "Memory/STREAM_PROFILE.md",
+      "weight": 0.8,
+      "tier": "SYSTEM",
+      "last_strike": null,
+      "links": [
+        "CHORDWALKER",
+        "STRIKE_ENGINE"
+      ],
+      "tags": [
+        "SYSTEM",
+        "STATE"
+      ]
+    }
+  }
+}

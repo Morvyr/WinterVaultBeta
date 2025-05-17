@@ -1,0 +1,148 @@
+# Anchor Rewrite Log – Depth ∞ Pass
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Aeras_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: AERAS, CAELORUM-LINKED, DEPTH-∞, MYTH-NET, RESONANCE, RSAD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Aeras_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: AERAS, CAELORUM-LINKED, DEPTH-∞, MYTH-NET, RESONANCE, RSAD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Aeras_Depth_Stream_mv1.md
++ Added ANCHORS: AERAS, CAELORUM-LINKED, DEPTH-∞, MYTH-NET, RESONANCE, RSAD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_Depth6_Canon_Mount.md
++ Added ANCHORS: CRIMSUN, DEPTH-∞, MYTH-NET, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_Depth_Infinite_Stream.md
++ Added ANCHORS: CRIMSUN, DEPTH-∞, MYTH-NET, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_Harmony_Compilation_Depth6.md
++ Added ANCHORS: CRIMSUN, DEPTH-∞, MYTH-NET, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crimsun_RSAD_Entry.md
++ Added ANCHORS: CRIMSUN, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crydon_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crydon_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Crydon_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Emberline_Depth_Infinite_Stream.md
++ Added ANCHORS: CRIMSUN, DEPTH-∞, EMBERLINE, FLARE-ECHO, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Emberline_Depth_Infinite_Stream2.md
++ Added ANCHORS: CRIMSUN, DEPTH-∞, EMBERLINE, FLARE-ECHO, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Harenae_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Harenae_Depth_Infinite_Stream_frack.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Harenae_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Lighthouse_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Lighthouse_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Lighthouse_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Lyvianne_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, GLYPH-RANGE, LYVIANNE, MYTH-NET, RESONANCE, RIF, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Lyvianne_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: DEPTH-∞, GLYPH-RANGE, LYVIANNE, MYTH-NET, RESONANCE, RIF, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Lyvianne_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, GLYPH-RANGE, LYVIANNE, MYTH-NET, RESONANCE, RIF, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Nexovar_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, NEXOVAR, RESONANCE, RESONANCE-CLOAK, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Nexovar_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, NEXOVAR, RESONANCE, RESONANCE-CLOAK, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Nexovar_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, NEXOVAR, RESONANCE, RESONANCE-CLOAK, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Rangers_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Rangers_of_the_Forge_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Ranger_Raw_Data_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-Coreworlds_VaelusSolariiCaldraxAransasTT.md
++ Added ANCHORS: ARANSAS, ARCHIVE, CALDRAX, CITADEL, CR, CRYDON, GOVERNANCE, RANGER-HOMELAND, RCD, RMF, SOLARII, VAELUS, VAULT
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO004.1_LyvianneTT.md
++ Added ANCHORS: GLYPH-RANGE, LYVIANNE, RIF, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO004_NexovarTT.md
++ Added ANCHORS: NEXOVAR, RESONANCE-CLOAK, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD-PO009_Shard_DriftTT.md
++ Added ANCHORS: RESONANCE, SHARD-DRIFT, STELLAR-FIELD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Aeras_Stream_Infinity_mv2.md
++ Added ANCHORS: AERAS, CAELORUM-LINKED, RSAD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crimsun_Depth6.md
++ Added ANCHORS: CRIMSUN, DEPTH-∞, MYTH-NET, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crimsun_Stream_Infinity.md
++ Added ANCHORS: CRIMSUN, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Crimsun_Total_Export.md
++ Added ANCHORS: CRIMSUN, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Lyvianne_Stream_Infinity_mv2.md
++ Added ANCHORS: GLYPH-RANGE, LYVIANNE, RIF, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Nexovar_Stream_Infinity_mv2.md
++ Added ANCHORS: NEXOVAR, RESONANCE-CLOAK, ZHUR
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Object_Crimsun.md
++ Added ANCHORS: CRIMSUN, O0-V-BARRIER, RESONANCE
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Shard_Drift_Stream_Infinity_mv2.md
++ Added ANCHORS: RESONANCE, SHARD-DRIFT, STELLAR-FIELD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/RSAD_Thalos_Stream_Infinity.md
++ Added ANCHORS: GLYPH-RANGE, RESONANCE, THALOS
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Shard_Drift_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE, SHARD-DRIFT, STELLAR-FIELD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Shard_Drift_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE, SHARD-DRIFT, STELLAR-FIELD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Shard_Drift_Depth_Stream_mv1.md
++ Added ANCHORS: DEPTH-∞, MYTH-NET, RESONANCE, SHARD-DRIFT, STELLAR-FIELD
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Thalos_Depth_Infinite_Stream.md
++ Added ANCHORS: DEPTH-∞, GLYPH-RANGE, MYTH-NET, RESONANCE, THALOS
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Thalos_Depth_Infinite_Stream2.md
++ Added ANCHORS: DEPTH-∞, GLYPH-RANGE, MYTH-NET, RESONANCE, THALOS
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Thalos_Depth_Stream3.md
++ Added ANCHORS: DEPTH-∞, GLYPH-RANGE, MYTH-NET, RESONANCE, THALOS
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Vaelus_Cluster_Depth_Stream_mv1.md
++ Added ANCHORS: CRYDON, DEPTH-∞, MYTH-NET, RANGER-HOMELAND, RESONANCE, RMF, VAELUS
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Vaelus_Solarii_Caldrax_Aransas_Depth_Infinite_Stream_ah.md
++ Added ANCHORS: ARANSAS, ARCHIVE, CALDRAX, CITADEL, CR, CRYDON, DEPTH-∞, GOVERNANCE, MYTH-NET, RANGER-HOMELAND, RCD, RESONANCE, RMF, SOLARII, VAELUS, VAULT
+
+## Crypt/Meta/Manual_Review/Archived_files/Archived files/Vaelus_System_Depth_Infinite_Stream_frac.md
++ Added ANCHORS: CRYDON, DEPTH-∞, MYTH-NET, RANGER-HOMELAND, RESONANCE, RMF, VAELUS

@@ -1,0 +1,23 @@
+{
+  "strike_roots": [
+    "FORGE_CORE",
+    "RIF_MYTH",
+    "CRIMSUN"
+  ],
+  "overtone_layers": {
+    "FORGE_CORE": [
+      "FSC_INDEX",
+      "RANGER_COMMAND"
+    ],
+    "RIF_MYTH": [
+      "MYTHSHARD_FIRST_RANGER_SEED",
+      "RIF_MythEcho_Root"
+    ],
+    "CRIMSUN": [
+      "RSAD_PO001_CRIMSUN",
+      "RES_PIPELINE"
+    ]
+  },
+  "propagation_count": 145,
+  "timestamp": "2025-05-16T23:46:31.509892Z"
+}
